@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Warszawskie licea</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <!-- DataTables -->
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+  <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+  <!-- Select2 -->
+  <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+  <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+  <!-- TailwindCSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 min-h-screen font-sans">
+
+<div class="container mx-auto py-8">
+  <h1 class="text-3xl font-bold mb-6 text-center text-gray-800">Warszawskie licea</h1>
+
+  <!-- Filters -->
+  <div class="grid md:grid-cols-3 gap-4 mb-6">
+    <div>
+      <label class="block mb-1 font-medium text-gray-700" for="languageFilter">Języki:</label>
+      <select id="languageFilter" multiple class="w-full rounded border-gray-300 shadow-sm"></select>
+    </div>
+    <div>
+      <label class="block mb-1 font-medium text-gray-700" for="subjectFilter">Przedmioty rozszerzone:</label>
+      <select id="subjectFilter" multiple class="w-full rounded border-gray-300 shadow-sm"></select>
+    </div>
+    <div class="flex gap-2 items-end">
+      <div>
+        <label class="block mb-1 font-medium text-gray-700" for="minPoints">Min punkty:</label>
+        <input type="number" id="minPoints" class="w-20 rounded border-gray-300 shadow-sm" placeholder="min">
+      </div>
+      <div>
+        <label class="block mb-1 font-medium text-gray-700" for="maxPoints">Max punkty:</label>
+        <input type="number" id="maxPoints" class="w-20 rounded border-gray-300 shadow-sm" placeholder="max">
+      </div>
+    </div>
+  </div>
+
+  <!-- Table -->
+  <div class="bg-white shadow-md rounded-lg overflow-hidden">
+    <table id="highschools" class="min-w-full divide-y divide-gray-200 display">
+        <thead class="bg-gray-50">
+            <tr>
+                <th class="px-4 py-2 text-left font-medium text-gray-700">Szkoła</th>
+                <th class="px-4 py-2 text-left font-medium text-gray-700">Oddział</th>
+                <th class="px-4 py-2 text-left font-medium text-gray-700">Przedmioty rozszerzone</th>
+                <th class="px-4 py-2 text-left font-medium text-gray-700">Języki</th>
+                <th class="px-4 py-2 text-left font-medium text-gray-700">Minimalna liczba punktów</th>
+            </tr>
+        </thead>
+        <tbody class="bg-white divide-y divide-gray-200">
+        {% for row in data %}
+            <tr class="hover:bg-gray-50">
+                <td class="px-4 py-2">{{ row.nazwa_szkoly }}</td>
+                <td class="px-4 py-2">{{ row.nazwa_oddzialu }}</td>
+                <td class="px-4 py-2">{{ row.rozszerzenia }}</td>
+                <td class="px-4 py-2">{{ row.jezyki }}</td>
+                <td class="px-4 py-2">{{ row.prog_min }}</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+  </div>
+</div>
+
+<script>
+$(document).ready(function() {
+    // Initialize DataTable
+    var table = $('#highschools').DataTable({
+        pageLength: 25,
+        columnDefs: [
+            { targets: [0,1], orderable: false },
+            { targets: [2,3], visible: false }
+        ],
+        order: [[4, 'desc']],
+        language: {
+            search: "Szukaj:",
+            lengthMenu: "Pokaż _MENU_ wpisów",
+            info: "Wyświetlono _START_ do _END_ z _TOTAL_ wpisów",
+            infoEmpty: "Brak oddziałów spełniających kryteria",
+            infoFiltered: "(filtrowano z _MAX_ wszystkich wpisów)",
+            zeroRecords: "Nie znaleziono pasujących wyników",
+            paginate: {
+                first: "Pierwsza",
+                last: "Ostatnia",
+                next: "Następna",
+                previous: "Poprzednia"
+            }
+        }
+    });
+
+    // Collect unique languages
+    var languages = [];
+    table.column(3).data().each(function(value){
+        value.split('-').forEach(function(lang){
+            lang = lang.trim();
+            if(lang && languages.indexOf(lang) === -1) languages.push(lang);
+        });
+    });
+    languages.sort();
+    languages.forEach(function(lang){
+        $('#languageFilter').append('<option value="'+lang+'">'+lang+'</option>');
+    });
+
+    // Collect unique subjects/extensions
+    var subjects = [];
+    table.column(2).data().each(function(value){
+        value.split('-').forEach(function(sub){
+            sub = sub.trim();
+            if(sub && subjects.indexOf(sub) === -1) subjects.push(sub);
+        });
+    });
+    subjects.sort();
+    subjects.forEach(function(sub){
+        $('#subjectFilter').append('<option value="'+sub+'">'+sub+'</option>');
+    });
+
+    // Initialize Select2
+    $('#languageFilter, #subjectFilter').select2({
+        placeholder: "Wybierz",
+        width: 'resolve'
+    });
+
+    // Custom filter
+    $.fn.dataTable.ext.search.push(
+        function(settings, data, dataIndex) {
+            var selectedLangs = $('#languageFilter').val();
+            var selectedSubs = $('#subjectFilter').val();
+            var minPoints = parseFloat($('#minPoints').val());
+            var maxPoints = parseFloat($('#maxPoints').val());
+            var rowLangs = data[3].split('-').map(l => l.trim());
+            var rowSubs = data[2].split('-').map(s => s.trim());
+            var rowPoints = parseFloat(data[4]);
+
+            var langMatch = !selectedLangs || selectedLangs.length === 0
+                || selectedLangs.every(lang => rowLangs.includes(lang));
+
+            var subMatch = !selectedSubs || selectedSubs.length === 0
+                || selectedSubs.every(sub => rowSubs.includes(sub));
+
+            var pointsMatch = true;
+            if (!isNaN(minPoints) && rowPoints < minPoints) pointsMatch = false;
+            if (!isNaN(maxPoints) && rowPoints > maxPoints) pointsMatch = false;
+
+            return langMatch && subMatch && pointsMatch;
+        }
+    );
+
+    // Redraw on filter change
+    $('#languageFilter, #subjectFilter, #minPoints, #maxPoints').on('change keyup', function() {
+        table.draw();
+    });
+});
+</script>
+
+</body>
+</html>
