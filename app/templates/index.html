@@ -163,15 +163,18 @@ $(document).ready(function() {
             var selectedSubjects = $('#subjectFilter').val() || [];
             
             if (isNaN(maxPoints) || points <= maxPoints) {
-                // Ranking filter: only maxRanking considered
                 if (isNaN(maxRanking) || ranking <= maxRanking) {
                     // Language and subject filters
                     if (selectedLanguages.length === 0 && selectedSubjects.length === 0) return true;
                     
                     var languageMatch = selectedLanguages.length === 0 || 
-                        selectedLanguages.some(lang => data[3].includes(lang));
-                    var subjectMatch = selectedSubjects.length === 0 || 
-                        selectedSubjects.some(sub => data[2].includes(sub));
+                        selectedLanguages.some(lang => (data[3] || '').includes(lang));
+                    
+                    // Require all selected subjects to be present in the row
+                    var subjectText = (data[2] || '').toLowerCase();
+                    var selectedSubjectsLower = selectedSubjects.map(function(s){ return s.toLowerCase(); });
+                    var subjectMatch = selectedSubjectsLower.length === 0 ||
+                        selectedSubjectsLower.every(function(sub){ return subjectText.includes(sub); });
                     
                     return languageMatch && subjectMatch;
                 }
@@ -179,8 +182,8 @@ $(document).ready(function() {
             return false;
         }
     );
-
-    // Redraw on filter change — removed #minRanking
+    
+    // Redraw on filter change
     $('#languageFilter, #subjectFilter, #maxPoints, #maxRanking').on('change keyup', function() {
         table.draw();
     });
