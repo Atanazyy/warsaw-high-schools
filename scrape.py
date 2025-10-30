@@ -78,7 +78,9 @@ def add_rankings(df):
                         continue
                     ranking25 = row[0] if row[0] else ""
                     nazwa_szkoly = row[1] + row[2] if row[1] or row[2] else ""
-                    nazwa_szkoly = nazwa_szkoly.split("im.")[0].strip()
+                    if nazwa_szkoly[0:2] != "LO":
+                        continue
+                    nazwa_szkoly = nazwa_szkoly.split("LO")[-1].strip()
                     rankingi = [float(x) for x in row[4:7] if x != "-"] # places in 2024, 2023, 2022
                     srednia22do24 = round(sum(rankingi) / len(rankingi), 2) if rankingi else None
                     mask = df['nazwa_szkoly'].str.startswith(nazwa_szkoly)
