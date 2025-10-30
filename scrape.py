@@ -4,21 +4,23 @@ import requests
 import pdfplumber
 
 # Official PDF with admission thresholds for Warsaw high schools (2024)
-PDF_URL = "https://edukacja.um.warszawa.pl/documents/66399/83605261/Minimalna%2Bliczba%2Bpunkt%C3%B3w%2B2024%2Br..pdf/dc6ed342-55c7-8aaf-518e-58cbb4640ea7?t=1721916124051"
-PDF_FILE = "warsaw_highschools_2024.pdf"
+OFFICIAL_PDF_URL = "https://edukacja.um.warszawa.pl/documents/66399/83605261/Minimalna%2Bliczba%2Bpunkt%C3%B3w%2B2024%2Br..pdf/dc6ed342-55c7-8aaf-518e-58cbb4640ea7?t=1721916124051"
+OFFICIAL_PDF = "warsaw_highschools_2024.pdf"
+
+RANKINGS_PDF = "ranking-licea-warszawskie-2025.pdf"
 
 def download_pdf():
     """Download the official PDF file if it is not already saved locally."""
     print("Downloading the official PDF from the Warsaw Education Office...")
-    r = requests.get(PDF_URL)
-    with open(PDF_FILE, "wb") as f:
+    r = requests.get(OFFICIAL_PDF_URL)
+    with open(OFFICIAL_PDF, "wb") as f:
         f.write(r.content)
-    print("File downloaded:", PDF_FILE)
+    print("File downloaded:", OFFICIAL_PDF)
 
-def parse_pdf():
+def parse_official_pdf():
+    print("Parsing the official PDF...")
     data = []
-
-    with pdfplumber.open(PDF_FILE) as pdf:
+    with pdfplumber.open(OFFICIAL_PDF) as pdf:
         for page_num, page in enumerate(pdf.pages, start=1):
             tables = page.extract_tables()
             for table in tables:
@@ -61,8 +63,31 @@ def parse_pdf():
                     })
 
     df = pd.DataFrame(data)
-    df.to_csv("warsaw_highschools_2024.csv", index=False, encoding="utf-8-sig")
+    return df
+
+def add_rankings(df):
+    print("Adding rankings from the rankings PDF...")
+    with pdfplumber.open(RANKINGS_PDF) as pdf:
+        for page_num, page in enumerate(pdf.pages, start=1):
+            tables = page.extract_tables()
+            for table in tables:
+                for row_idx, row in enumerate(table):
+                    if not row[0] or not row[0].isdigit():
+                        continue
+                    if row[0] == '2025':
+                        continue
+                    ranking25 = row[0] if row[0] else ""
+                    nazwa_szkoly = row[1] + row[2] if row[1] or row[2] else ""
+                    nazwa_szkoly = nazwa_szkoly.split("im.")[0].strip()
+                    rankingi = [float(x) for x in row[4:7] if x != "-"] # places in 2024, 2023, 2022
+                    srednia22do24 = round(sum(rankingi) / len(rankingi), 2) if rankingi else None
+                    mask = df['nazwa_szkoly'].str.startswith(nazwa_szkoly)
+                    df.loc[mask, 'ranking25'] = ranking25
+                    df.loc[mask, 'srednia22do24'] = srednia22do24
+    return df
 
 if __name__ == "__main__":
     download_pdf()
-    parse_pdf()
+    df = parse_official_pdf()
+    df = add_rankings(df)
+    df.to_csv("./app/data/warsaw_highschools_2024.csv", index=False, encoding="utf-8-sig")

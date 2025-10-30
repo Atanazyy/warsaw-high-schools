@@ -25,17 +25,29 @@
       <select id="languageFilter" multiple class="w-full rounded border-gray-300 shadow-sm"></select>
     </div>
     <div>
-      <label class="block mb-1 font-medium text-gray-700" for="subjectFilter">Przedmioty rozszerzone:</label>
+      <label class="block mb-1 font-medium text-gray-700" for="subjectFilter">Przedmioty:</label>
       <select id="subjectFilter" multiple class="w-full rounded border-gray-300 shadow-sm"></select>
     </div>
-    <div class="flex gap-2 items-end">
+    <div class="flex gap-4">
       <div>
-        <label class="block mb-1 font-medium text-gray-700" for="minPoints">Min punkty:</label>
-        <input type="number" id="minPoints" class="w-20 rounded border-gray-300 shadow-sm" placeholder="min">
+        <label class="block mb-1 font-medium text-gray-700" for="maxPoints">Max punktów:</label>
+        <input type="number" 
+               id="maxPoints" 
+               class="w-24 rounded border-gray-300 shadow-sm" 
+               placeholder="Max pkt"
+               inputmode="numeric" 
+               pattern="[0-9]*"
+               style="-webkit-appearance: none; -moz-appearance: textfield;">
       </div>
       <div>
-        <label class="block mb-1 font-medium text-gray-700" for="maxPoints">Max punkty:</label>
-        <input type="number" id="maxPoints" class="w-20 rounded border-gray-300 shadow-sm" placeholder="max">
+        <label class="block mb-1 font-medium text-gray-700" for="maxRanking">Max ranking:</label>
+        <input type="number" 
+               id="maxRanking" 
+               class="w-24 rounded border-gray-300 shadow-sm" 
+               placeholder="Max rank"
+               inputmode="numeric" 
+               pattern="[0-9]*"
+               style="-webkit-appearance: none; -moz-appearance: textfield;">
       </div>
     </div>
   </div>
@@ -50,6 +62,8 @@
                 <th class="px-4 py-2 text-left font-medium text-gray-700">Przedmioty rozszerzone</th>
                 <th class="px-4 py-2 text-left font-medium text-gray-700">Języki</th>
                 <th class="px-4 py-2 text-left font-medium text-gray-700">Minimalna liczba punktów</th>
+                <th class="px-4 py-2 text-left font-medium text-gray-700">Ranking 2025</th>
+                <th class="px-4 py-2 text-left font-medium text-gray-700">Średnia pozycja 2022-2024</th>
             </tr>
         </thead>
         <tbody class="bg-white divide-y divide-gray-200">
@@ -60,6 +74,8 @@
                 <td class="px-4 py-2">{{ row.rozszerzenia }}</td>
                 <td class="px-4 py-2">{{ row.jezyki }}</td>
                 <td class="px-4 py-2">{{ row.prog_min }}</td>
+                <td class="px-4 py-2">{{ row.ranking25 }}</td>
+                <td class="px-4 py-2">{{ row.srednia22do24 }}</td>
             </tr>
         {% endfor %}
         </tbody>
@@ -69,14 +85,23 @@
 
 <script>
 $(document).ready(function() {
-    // Initialize DataTable
     var table = $('#highschools').DataTable({
         pageLength: 25,
         columnDefs: [
             { targets: [0,1], orderable: false },
-            { targets: [2,3], visible: false }
+            { targets: [2,3], visible: false },
+            { 
+                targets: [5,6],
+                render: function(data, type, row) {
+                    if (type === 'display') {
+                        return data === null || data === undefined || isNaN(data) ? '-' : data;
+                    }
+                    // For sorting, convert '-' to a very big number
+                    return data === null || data === undefined || isNaN(data) ? 999999 : data;
+                }
+            }
         ],
-        order: [[4, 'desc']],
+        order: [[5, 'asc']],
         language: {
             search: "Szukaj:",
             lengthMenu: "Pokaż _MENU_ wpisów",
@@ -128,30 +153,35 @@ $(document).ready(function() {
     // Custom filter
     $.fn.dataTable.ext.search.push(
         function(settings, data, dataIndex) {
-            var selectedLangs = $('#languageFilter').val();
-            var selectedSubs = $('#subjectFilter').val();
-            var minPoints = parseFloat($('#minPoints').val());
-            var maxPoints = parseFloat($('#maxPoints').val());
-            var rowLangs = data[3].split('-').map(l => l.trim());
-            var rowSubs = data[2].split('-').map(s => s.trim());
-            var rowPoints = parseFloat(data[4]);
+            var maxPoints = parseInt($('#maxPoints').val(), 10);
+            var maxRanking = parseInt($('#maxRanking').val(), 10);
+            
+            var points = parseFloat(data[4]) || 0;
+            var ranking = parseFloat(data[5]) || 0;
 
-            var langMatch = !selectedLangs || selectedLangs.length === 0
-                || selectedLangs.every(lang => rowLangs.includes(lang));
-
-            var subMatch = !selectedSubs || selectedSubs.length === 0
-                || selectedSubs.every(sub => rowSubs.includes(sub));
-
-            var pointsMatch = true;
-            if (!isNaN(minPoints) && rowPoints < minPoints) pointsMatch = false;
-            if (!isNaN(maxPoints) && rowPoints > maxPoints) pointsMatch = false;
-
-            return langMatch && subMatch && pointsMatch;
+            var selectedLanguages = $('#languageFilter').val() || [];
+            var selectedSubjects = $('#subjectFilter').val() || [];
+            
+            if (isNaN(maxPoints) || points <= maxPoints) {
+                // Ranking filter: only maxRanking considered
+                if (isNaN(maxRanking) || ranking <= maxRanking) {
+                    // Language and subject filters
+                    if (selectedLanguages.length === 0 && selectedSubjects.length === 0) return true;
+                    
+                    var languageMatch = selectedLanguages.length === 0 || 
+                        selectedLanguages.some(lang => data[3].includes(lang));
+                    var subjectMatch = selectedSubjects.length === 0 || 
+                        selectedSubjects.some(sub => data[2].includes(sub));
+                    
+                    return languageMatch && subjectMatch;
+                }
+            }
+            return false;
         }
     );
 
-    // Redraw on filter change
-    $('#languageFilter, #subjectFilter, #minPoints, #maxPoints').on('change keyup', function() {
+    // Redraw on filter change — removed #minRanking
+    $('#languageFilter, #subjectFilter, #maxPoints, #maxRanking').on('change keyup', function() {
         table.draw();
     });
 });
