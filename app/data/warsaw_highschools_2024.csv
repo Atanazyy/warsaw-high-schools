@@ -8,15 +8,15 @@ Bemowo,LO,LXXVIII LO im. M. Pawlikowskiej-Jasnorzewskiej,1F [D] geogr-hist-ang (
 Białołęka,LO,CLXV LO,"1a [O] hist-ang-pol (ang-niem,hisz)",ang-hist-pol,ang-hisz-niem,90.00,,
 Białołęka,LO,CLXV LO,"1c [I-o] biol-geogr-ang (ang-hisz,niem)",ang-biol-geogr,ang-hisz-niem,104.75,,
 Białołęka,LO,CLXV LO,"1b [O] inf-ang-mat (ang-hisz,niem)",ang-inf-mat,ang-hisz-niem,103.50,,
-Białołęka,LO,CV LO im. Z. Herberta,"1B [O] biol-chem-ang (ang-niem*,fra)",ang-biol-chem,ang-fra-niem,145.40,,
-Białołęka,LO,CV LO im. Z. Herberta,"1A [O] geogr-ang-mat (ang-niem*,fra)",ang-geogr-mat,ang-fra-niem,143.60,,
-Białołęka,LO,CV LO im. Z. Herberta,"1C [O] geogr-ang-wos (ang-niem*,fra)",ang-geogr-wos,ang-fra-niem,141.50,,
+Białołęka,LO,CV LO im. Z. Herberta,"1B [O] biol-chem-ang (ang-niem*,fra)",ang-biol-chem,ang-fra-niem,145.40,73,80.67
+Białołęka,LO,CV LO im. Z. Herberta,"1A [O] geogr-ang-mat (ang-niem*,fra)",ang-geogr-mat,ang-fra-niem,143.60,73,80.67
+Białołęka,LO,CV LO im. Z. Herberta,"1C [O] geogr-ang-wos (ang-niem*,fra)",ang-geogr-wos,ang-fra-niem,141.50,73,80.67
 Bielany,BS I st.,Branżowa Szkoła I stopnia Nr 18,1c [O] Sprzedawca (ang),Sprzedawca,ang,31.30,,
 Bielany,BS I st.,Branżowa Szkoła I stopnia Nr 18,1a [O] Magazynier-logistyk (ang),Magazynier-logistyk,ang,35.75,,
-Bielany,LO,CXXII LO im. I. Domeyki,1A/2 [O] fiz-ang-mat (ang-hisz),ang-fiz-mat,ang-hisz,179.50,,
-Bielany,LO,CXXII LO im. I. Domeyki,1B [O] geogr-ang-mat (ang-niem*),ang-geogr-mat,ang-niem,173.00,,
-Bielany,LO,CXXII LO im. I. Domeyki,1A/1 [O] fiz-ang-mat (ang-niem),ang-fiz-mat,ang-niem,176.55,,
-Bielany,LO,CXXII LO im. I. Domeyki,1C [O] biol-chem-mat (ang-niem*),biol-chem-mat,ang-niem,172.40,,
+Bielany,LO,CXXII LO im. I. Domeyki,1A/2 [O] fiz-ang-mat (ang-hisz),ang-fiz-mat,ang-hisz,179.50,16,18.0
+Bielany,LO,CXXII LO im. I. Domeyki,1B [O] geogr-ang-mat (ang-niem*),ang-geogr-mat,ang-niem,173.00,16,18.0
+Bielany,LO,CXXII LO im. I. Domeyki,1A/1 [O] fiz-ang-mat (ang-niem),ang-fiz-mat,ang-niem,176.55,16,18.0
+Bielany,LO,CXXII LO im. I. Domeyki,1C [O] biol-chem-mat (ang-niem*),biol-chem-mat,ang-niem,172.40,16,18.0
 Bielany,LO,LII LO im. W. S. Reymonta,"1a [O] biol-ang-pol (ang*-hisz*,niem*)",ang-biol-pol,ang-hisz-niem,129.40,,
 Bielany,LO,LII LO im. W. S. Reymonta,"1b [O] geogr-ang-mat (ang*-hisz*,niem*)",ang-geogr-mat,ang-hisz-niem,133.65,,
 Bielany,LO,LIX LO Mistrzostwa Sportowego im. J. Kusocińskiego,1A.piłka_ręczna [MS] biol-geogr-ang (ang-niem),ang-biol-geogr,ang-niem,50.00,,
@@ -49,29 +49,29 @@ Bielany,T,Technikum nr 25 im. Stanisława Staszica,1ap [O] Technik programista (
 Bielany,T,Technikum nr 25 im. S. Staszica,1at [O] Technik organizacji turystyki (ang-niem),Technik organizacji turystyki,ang-niem,76.10,,
 Bielany,T,Technikum nr 25 im. S. Staszica,1ai [O] Technik informatyk (ang-niem),Technik informatyk,ang-niem,104.00,,
 Bielany,T,Technikum nr 25 im. S. Staszica,1as [O] Technik spedytor (ang-niem),Technik spedytor,ang-niem,68.80,,
-Bielany,LO,XCIV LO im. gen. S. Maczka,1E [O] ang-hiszp-pol (ang-hisz),ang-hiszp-pol,ang-hisz,142.55,,
-Bielany,LO,XCIV LO im. gen. S. Maczka,1Bw [O] hist-pol-wos (ang-wlo),hist-pol-wos,ang-wlo,136.70,,
-Bielany,LO,XCIV LO im. gen. S. Maczka,1Bh [O] hist-pol-wos (ang-hisz),hist-pol-wos,ang-hisz,149.40,,
-Bielany,LO,XCIV LO im. gen. S. Maczka,1An [O] fiz-mat (ang-niem),fiz-mat,ang-niem,155.95,,
-Bielany,LO,XCIV LO im. gen. S. Maczka,1Ch [O] biol-chem (ang-hisz),biol-chem,ang-hisz,152.40,,
-Bielany,LO,XCIV LO im. gen. S. Maczka,1Cw [O] biol-chem (ang-wlo),biol-chem,ang-wlo,144.95,,
-Bielany,LO,XCIV LO im. gen. S. Maczka,1Dn [O] geogr-mat (ang-niem),geogr-mat,ang-niem,155.40,,
-Bielany,LO,XCIV LO im. gen. S. Maczka,1Ah [O] fiz-mat (ang-hisz),fiz-mat,ang-hisz,159.85,,
-Bielany,LO,XCIV LO im. gen. S. Maczka,1Dh [O] geogr-mat (ang-hisz),geogr-mat,ang-hisz,161.45,,
-Bielany,LO,XLI LO im. J. Lelewela,1C [O] biol-chem-mat (ang-hisz*),biol-chem-mat,ang-hisz,168.25,,
-Bielany,LO,XLI LO im. J. Lelewela,1P [O] hist-pol-wos (ang-fra*),hist-pol-wos,ang-fra,155.70,,
-Bielany,LO,XLI LO im. J. Lelewela,1A [O] fiz-ang-mat (ang-niem*),ang-fiz-mat,ang-niem,169.15,,
-Bielany,LO,XLI LO im. J. Lelewela,1B [D] biz-geogr-mat (ang-niem*),biz-geogr-mat,ang-niem,182.69,,
-Bielany,LO,XLI LO im. J. Lelewela,1E [O] hist-ang-pol (ang-fra*),ang-hist-pol,ang-fra,153.60,,
-Bielany,LO,XXII LO z Oddziałami Dwujęzycznymi im. Jose Marti,1Ah [O] fiz-ang-mat (ang-hisz*),ang-fiz-mat,ang-hisz,162.00,,
-Bielany,LO,XXII LO z Oddziałami Dwujęzycznymi im. Jose Marti,1Cn [O] biol-chem-ang (ang-niem),ang-biol-chem,ang-niem,158.90,,
-Bielany,LO,XXII LO z Oddziałami Dwujęzycznymi im. Jose Marti,1Ch [O] biol-chem-ang (ang-hisz*),ang-biol-chem,ang-hisz,162.70,,
-Bielany,LO,XXII LO z Oddziałami Dwujęzycznymi im. Jose Marti,1An [O] fiz-ang-mat (ang-niem),ang-fiz-mat,ang-niem,167.30,,
-Bielany,LO,XXII LO z Oddziałami Dwujęzycznymi im. Jose Marti,1Bh [O] geogr-ang-mat (ang-hisz*),ang-geogr-mat,ang-hisz,166.20,,
-Bielany,LO,XXII LO z Oddziałami Dwujęzycznymi im. Jose Marti,1Dn [O] biol-chem-mat (ang-niem),biol-chem-mat,ang-niem,156.40,,
-Bielany,LO,XXII LO z Oddziałami Dwujęzycznymi im. Jose Marti,1Bn [O] geogr-ang-mat (ang-niem),ang-geogr-mat,ang-niem,163.65,,
-Bielany,LO,XXII LO z Oddziałami Dwujęzycznymi im. Jose Marti,1Dh [O] biol-chem-mat (ang-hisz*),biol-chem-mat,ang-hisz,157.35,,
-Bielany,LO,XXII LO z Oddziałami Dwujęzycznymi im. Jose Marti,1H [D] geogr-hiszp-pol (hisz-ang),geogr-hiszp-pol,ang-hisz,143.90,,
+Bielany,LO,XCIV LO im. gen. S. Maczka,1E [O] ang-hiszp-pol (ang-hisz),ang-hiszp-pol,ang-hisz,142.55,46,50.33
+Bielany,LO,XCIV LO im. gen. S. Maczka,1Bw [O] hist-pol-wos (ang-wlo),hist-pol-wos,ang-wlo,136.70,46,50.33
+Bielany,LO,XCIV LO im. gen. S. Maczka,1Bh [O] hist-pol-wos (ang-hisz),hist-pol-wos,ang-hisz,149.40,46,50.33
+Bielany,LO,XCIV LO im. gen. S. Maczka,1An [O] fiz-mat (ang-niem),fiz-mat,ang-niem,155.95,46,50.33
+Bielany,LO,XCIV LO im. gen. S. Maczka,1Ch [O] biol-chem (ang-hisz),biol-chem,ang-hisz,152.40,46,50.33
+Bielany,LO,XCIV LO im. gen. S. Maczka,1Cw [O] biol-chem (ang-wlo),biol-chem,ang-wlo,144.95,46,50.33
+Bielany,LO,XCIV LO im. gen. S. Maczka,1Dn [O] geogr-mat (ang-niem),geogr-mat,ang-niem,155.40,46,50.33
+Bielany,LO,XCIV LO im. gen. S. Maczka,1Ah [O] fiz-mat (ang-hisz),fiz-mat,ang-hisz,159.85,46,50.33
+Bielany,LO,XCIV LO im. gen. S. Maczka,1Dh [O] geogr-mat (ang-hisz),geogr-mat,ang-hisz,161.45,46,50.33
+Bielany,LO,XLI LO im. J. Lelewela,1C [O] biol-chem-mat (ang-hisz*),biol-chem-mat,ang-hisz,168.25,24,20.67
+Bielany,LO,XLI LO im. J. Lelewela,1P [O] hist-pol-wos (ang-fra*),hist-pol-wos,ang-fra,155.70,24,20.67
+Bielany,LO,XLI LO im. J. Lelewela,1A [O] fiz-ang-mat (ang-niem*),ang-fiz-mat,ang-niem,169.15,24,20.67
+Bielany,LO,XLI LO im. J. Lelewela,1B [D] biz-geogr-mat (ang-niem*),biz-geogr-mat,ang-niem,182.69,24,20.67
+Bielany,LO,XLI LO im. J. Lelewela,1E [O] hist-ang-pol (ang-fra*),ang-hist-pol,ang-fra,153.60,24,20.67
+Bielany,LO,XXII LO z Oddziałami Dwujęzycznymi im. Jose Marti,1Ah [O] fiz-ang-mat (ang-hisz*),ang-fiz-mat,ang-hisz,162.00,20,25.0
+Bielany,LO,XXII LO z Oddziałami Dwujęzycznymi im. Jose Marti,1Cn [O] biol-chem-ang (ang-niem),ang-biol-chem,ang-niem,158.90,20,25.0
+Bielany,LO,XXII LO z Oddziałami Dwujęzycznymi im. Jose Marti,1Ch [O] biol-chem-ang (ang-hisz*),ang-biol-chem,ang-hisz,162.70,20,25.0
+Bielany,LO,XXII LO z Oddziałami Dwujęzycznymi im. Jose Marti,1An [O] fiz-ang-mat (ang-niem),ang-fiz-mat,ang-niem,167.30,20,25.0
+Bielany,LO,XXII LO z Oddziałami Dwujęzycznymi im. Jose Marti,1Bh [O] geogr-ang-mat (ang-hisz*),ang-geogr-mat,ang-hisz,166.20,20,25.0
+Bielany,LO,XXII LO z Oddziałami Dwujęzycznymi im. Jose Marti,1Dn [O] biol-chem-mat (ang-niem),biol-chem-mat,ang-niem,156.40,20,25.0
+Bielany,LO,XXII LO z Oddziałami Dwujęzycznymi im. Jose Marti,1Bn [O] geogr-ang-mat (ang-niem),ang-geogr-mat,ang-niem,163.65,20,25.0
+Bielany,LO,XXII LO z Oddziałami Dwujęzycznymi im. Jose Marti,1Dh [O] biol-chem-mat (ang-hisz*),biol-chem-mat,ang-hisz,157.35,20,25.0
+Bielany,LO,XXII LO z Oddziałami Dwujęzycznymi im. Jose Marti,1H [D] geogr-hiszp-pol (hisz-ang),geogr-hiszp-pol,ang-hisz,143.90,20,25.0
 Bielany,LO,XXXIX LO im. Lotnictwa Polskiego,1An [O] hist-ang-pol (ang-niem),ang-hist-pol,ang-niem,109.70,,
 Bielany,LO,XXXIX LO im. Lotnictwa Polskiego,1Bn [O] biol-chem-ang (ang-niem),ang-biol-chem,ang-niem,110.65,,
 Bielany,LO,XXXIX LO im. Lotnictwa Polskiego,1Cn [O] biol-geogr-ang (ang-niem),ang-biol-geogr,ang-niem,98.45,,
@@ -84,17 +84,17 @@ Mokotów,BS I st.,Branżowa Szkoła I stopnia nr 31,"1Bw [O] wielozawodowa (ang,
 Mokotów,BS I st.,Branżowa Szkoła I stopnia nr 31,"1Cw [O] wielozawodowa (ang,ros)",wielozawodowa,ang-ros,27.35,,
 Mokotów,BS I st.,Branżowa Szkoła I stopnia nr 4,1BA [O] Fryzjer (ang*),Fryzjer,ang,33.80,,
 Mokotów,LO,"CLV LO z Oddziałami Dwujęzycznymi im. Bohaterek Powstania
-Warszawskiego",1M-niem [O] biol-chem-mat (ang-niem),biol-chem-mat,ang-niem,171.45,,
+Warszawskiego",1M-niem [O] biol-chem-mat (ang-niem),biol-chem-mat,ang-niem,171.45,26,31.67
 Mokotów,LO,"CLV LO z Oddziałami Dwujęzycznymi im. Bohaterek Powstania
-Warszawskiego",1M-hiszp [O] biol-chem-mat (ang-hisz),biol-chem-mat,ang-hisz,174.85,,
+Warszawskiego",1M-hiszp [O] biol-chem-mat (ang-hisz),biol-chem-mat,ang-hisz,174.85,26,31.67
 Mokotów,LO,"CLV LO z Oddziałami Dwujęzycznymi im. Bohaterek Powstania
-Warszawskiego",1D [D] geogr-ang-mat (niem*-ang),ang-geogr-mat,ang-niem,166.00,,
+Warszawskiego",1D [D] geogr-ang-mat (niem*-ang),ang-geogr-mat,ang-niem,166.00,26,31.67
 Mokotów,LO,"CLV LO z Oddziałami Dwujęzycznymi im. Bohaterek Powstania
-Warszawskiego",1B [D] biz-mat-wos (ang-hisz*),biz-mat-wos,ang-hisz,191.01,,
+Warszawskiego",1B [D] biz-mat-wos (ang-hisz*),biz-mat-wos,ang-hisz,191.01,26,31.67
 Mokotów,LO,"CLV LO z Oddziałami Dwujęzycznymi im. Bohaterek Powstania
-Warszawskiego",1A [D] hist-pol-wos (ang-niem*),hist-pol-wos,ang-niem,181.72,,
+Warszawskiego",1A [D] hist-pol-wos (ang-niem*),hist-pol-wos,ang-niem,181.72,26,31.67
 Mokotów,LO,"CLV LO z Oddziałami Dwujęzycznymi im. Bohaterek Powstania
-Warszawskiego",1H [D] geogr-hiszp-mat (ang-hisz*),geogr-hiszp-mat,ang-hisz,190.24,,
+Warszawskiego",1H [D] geogr-hiszp-mat (ang-hisz*),geogr-hiszp-mat,ang-hisz,190.24,26,31.67
 Mokotów,LO,CLVI LO Integracyjne „Przy Łazienkach Królewskich”,"1A [I-o] hist-pol (ang-hisz*,niem*)",hist-pol,ang-hisz-niem,123.60,,
 Mokotów,LO,CLVI LO Integracyjne „Przy Łazienkach Królewskich”,"1C [I-o] biol-chem (ang-hisz*,niem*)",biol-chem,ang-hisz-niem,101.60,,
 Mokotów,LO,CLVI LO Integracyjne „Przy Łazienkach Królewskich”,"1D [I-o] inf-mat (ang-hisz*,niem*)",inf-mat,ang-hisz-niem,136.60,,
@@ -109,19 +109,19 @@ Mokotów,LO,CX LO im. R. Schumana,1B2 [O] geogr-ang-wos (ang-wlo),ang-geogr-wos,
 Mokotów,LO,CX LO im. R. Schumana,1C1 [O] hist-pol-wos (ang-niem),hist-pol-wos,ang-niem,109.20,,
 Mokotów,LO,CX LO im. R. Schumana,1C2 [O] hist-pol-wos (ang-wlo),hist-pol-wos,ang-wlo,102.85,,
 Mokotów,LO,CX LO im. R. Schumana,1B1 [O] geogr-ang-wos (ang-hisz),ang-geogr-wos,ang-hisz,118.80,,
-Mokotów,LO,LXV LO z Oddziałami Integracyjnymi im. gen. J. Bema,1A [I-o] ang-mat (ang-niem),ang-mat,ang-niem,132.00,,
-Mokotów,LO,LXV LO z Oddziałami Integracyjnymi im. gen. J. Bema,1CF [O] h.szt.-pol (ang-fra),h.szt.-pol,ang-fra,106.00,,
-Mokotów,LO,LXV LO z Oddziałami Integracyjnymi im. gen. J. Bema,1B [I-o] biol-chem (ang-ros),biol-chem,ang-ros,111.80,,
-Mokotów,LO,LXV LO z Oddziałami Integracyjnymi im. gen. J. Bema,1DN [O] hist-pol-wos (ang-niem),hist-pol-wos,ang-niem,118.35,,
-Mokotów,LO,LXV LO z Oddziałami Integracyjnymi im. gen. J. Bema,1DR [O] hist-pol-wos (ang-ros),hist-pol-wos,ang-ros,109.60,,
-Mokotów,LO,LXV LO z Oddziałami Integracyjnymi im. gen. J. Bema,1CW [O] h.szt.-pol (ang-wlo),h.szt.-pol,ang-wlo,114.40,,
-Mokotów,LO,LXV LO z Oddziałami Integracyjnymi im. gen. J. Bema,"1E [I-o] geogr-mat (ang-hisz,wlo)",geogr-mat,ang-hisz-wlo,120.00,,
+Mokotów,LO,LXV LO z Oddziałami Integracyjnymi im. gen. J. Bema,1A [I-o] ang-mat (ang-niem),ang-mat,ang-niem,132.00,95,87.0
+Mokotów,LO,LXV LO z Oddziałami Integracyjnymi im. gen. J. Bema,1CF [O] h.szt.-pol (ang-fra),h.szt.-pol,ang-fra,106.00,95,87.0
+Mokotów,LO,LXV LO z Oddziałami Integracyjnymi im. gen. J. Bema,1B [I-o] biol-chem (ang-ros),biol-chem,ang-ros,111.80,95,87.0
+Mokotów,LO,LXV LO z Oddziałami Integracyjnymi im. gen. J. Bema,1DN [O] hist-pol-wos (ang-niem),hist-pol-wos,ang-niem,118.35,95,87.0
+Mokotów,LO,LXV LO z Oddziałami Integracyjnymi im. gen. J. Bema,1DR [O] hist-pol-wos (ang-ros),hist-pol-wos,ang-ros,109.60,95,87.0
+Mokotów,LO,LXV LO z Oddziałami Integracyjnymi im. gen. J. Bema,1CW [O] h.szt.-pol (ang-wlo),h.szt.-pol,ang-wlo,114.40,95,87.0
+Mokotów,LO,LXV LO z Oddziałami Integracyjnymi im. gen. J. Bema,"1E [I-o] geogr-mat (ang-hisz,wlo)",geogr-mat,ang-hisz-wlo,120.00,95,87.0
 Mokotów,LO,LXVIII LO im. T. Chałubińskiego,1T [O] biol-chem-ang (ang-niem*),ang-biol-chem,ang-niem,80.75,,
 Mokotów,LO,LXVIII LO im. T. Chałubińskiego,1U1 [O] geogr-ang-wos (ang-niem*),ang-geogr-wos,ang-niem,98.85,,
 Mokotów,LO,LXVIII LO im. T. Chałubińskiego,1u2 [O] hist-ang-wos (ang-hisz),ang-hist-wos,ang-hisz,110.75,,
 Mokotów,LO,LXVIII LO im. T. Chałubińskiego,"1w [O] geogr-ang-pol (ang-niem*,hisz)",ang-geogr-pol,ang-hisz-niem,99.20,,
-Mokotów,LO,LXXX LO im. L. Staffa,1lb [O] inf-ang-mat (ang-niem*),ang-inf-mat,ang-niem,138.30,,
-Mokotów,LO,LXXX LO im. L. Staffa,1la [O] inf-ang-mat (ang-hisz*),ang-inf-mat,ang-hisz,147.05,,
+Mokotów,LO,LXXX LO im. L. Staffa,1lb [O] inf-ang-mat (ang-niem*),ang-inf-mat,ang-niem,138.30,61,57.33
+Mokotów,LO,LXXX LO im. L. Staffa,1la [O] inf-ang-mat (ang-hisz*),ang-inf-mat,ang-hisz,147.05,61,57.33
 Mokotów,T,Technikum Ekonomiczne nr 8,1Ah [O] Technik rachunkowości (ang-hisz),Technik rachunkowości,ang-hisz,49.70,,
 Mokotów,T,Technikum Ekonomiczne nr 8,1C [O] Technik reklamy (ang-niem),Technik reklamy,ang-niem,87.40,,
 Mokotów,T,Technikum Ekonomiczne nr 8,1Bh [O] Technik ekonomista (ang-hisz),Technik ekonomista,ang-hisz,89.65,,
@@ -149,61 +149,61 @@ Mokotów,T,Technikum Ogrodnicze,1ATO [O] Technik ogrodnik (ang-niem*),Technik og
 Mokotów,T,Technikum Ogrodnicze,1BTO [O] Technik ogrodnik (ang-niem*),Technik ogrodnik,ang-niem,45.00,,
 Mokotów,T,Technikum Ogrodnicze,1TW [O] Technik weterynarii (ang-niem*),Technik weterynarii,ang-niem,79.85,,
 Mokotów,T,Technikum Ogrodnicze,1BTAK [O] Technik architektury krajobrazu (ang-niem*),Technik architektury krajobrazu,ang-niem,23.20,,
-Mokotów,LO,VI LO im. T. Reytana,1/2 [O] biol-chem-mat (ang-niem),biol-chem-mat,ang-niem,162.65,,
-Mokotów,LO,VI LO im. T. Reytana,1/1 [O] fiz-ang-mat (ang-niem),ang-fiz-mat,ang-niem,164.90,,
-Mokotów,LO,VI LO im. T. Reytana,1/4 [O] biz-ang-mat (ang-hisz),ang-biz-mat,ang-hisz,165.95,,
-Mokotów,LO,VI LO im. T. Reytana,1/3 [O] biol-chem-ang (ang-niem),ang-biol-chem,ang-niem,163.30,,
-Mokotów,LO,X LO im. Królowej Jadwigi,1CR [O] biz-geogr-mat (ang-ros),biz-geogr-mat,ang-ros,149.40,,
-Mokotów,LO,X LO im. Królowej Jadwigi,1BH [O] biol-inf-mat (ang-hisz),biol-inf-mat,ang-hisz,159.30,,
-Mokotów,LO,X LO im. Królowej Jadwigi,1BN [O] biol-inf-mat (ang-niem),biol-inf-mat,ang-niem,151.20,,
-Mokotów,LO,X LO im. Królowej Jadwigi,1AF [O] hist-pol-wos (ang-fra),hist-pol-wos,ang-fra,142.00,,
-Mokotów,LO,X LO im. Królowej Jadwigi,1AH [O] hist-pol-wos (ang-hisz),hist-pol-wos,ang-hisz,149.05,,
-Mokotów,LO,X LO im. Królowej Jadwigi,1CN [O] biz-geogr-mat (ang-niem),biz-geogr-mat,ang-niem,162.20,,
-Mokotów,LO,XLII LO im. M. Konopnickiej,1a [O] geogr-ang-mat (ang-niem),ang-geogr-mat,ang-niem,131.90,,
-Mokotów,LO,XLII LO im. M. Konopnickiej,1c [O] biol-chem-ang (ang-fra*),ang-biol-chem,ang-fra,138.10,,
-Mokotów,LO,XLII LO im. M. Konopnickiej,1b [O] hist-ang-pol (ang-wlo*),ang-hist-pol,ang-wlo,126.00,,
-Mokotów,LO,XLIII LO im. K. Wielkiego,1Bn [O] geogr-ang-mat (ang-niem),ang-geogr-mat,ang-niem,153.15,,
-Mokotów,LO,XLIII LO im. K. Wielkiego,1An [O] hist-ang-wos (ang-niem),ang-hist-wos,ang-niem,137.40,,
-Mokotów,LO,XLIII LO im. K. Wielkiego,1Df [O] biol-ang-pol (ang-fra),ang-biol-pol,ang-fra,123.80,,
-Mokotów,LO,XLIII LO im. K. Wielkiego,1Br [O] geogr-ang-mat (ang-ros),ang-geogr-mat,ang-ros,129.40,,
-Mokotów,LO,XLIII LO im. K. Wielkiego,1Cf [O] biol-chem-ang (ang-fra),ang-biol-chem,ang-fra,137.50,,
-Mokotów,LO,XLIII LO im. K. Wielkiego,1Ah [O] hist-ang-wos (ang-hisz),ang-hist-wos,ang-hisz,147.95,,
-Mokotów,LO,XLIII LO im. K. Wielkiego,1Ch [O] biol-chem-ang (ang-hisz),ang-biol-chem,ang-hisz,154.15,,
-Mokotów,LO,XLIII LO im. K. Wielkiego,1Dh [O] biol-ang-pol (ang-hisz),ang-biol-pol,ang-hisz,141.15,,
-Mokotów,LO,XLIV LO im. S. Banacha,1B2 [O] biol-chem (ang-fra),biol-chem,ang-fra,154.75,,
-Mokotów,LO,XLIV LO im. S. Banacha,1C1 [O] geogr-mat (ang-niem),geogr-mat,ang-niem,156.20,,
-Mokotów,LO,XLIV LO im. S. Banacha,1D1 [O] hist-ang-wos (ang-niem),ang-hist-wos,ang-niem,141.30,,
-Mokotów,LO,XLIV LO im. S. Banacha,1C2 [O] geogr-mat (ang-fra),geogr-mat,ang-fra,157.95,,
-Mokotów,LO,XLIV LO im. S. Banacha,1B1 [O] biol-chem (ang-niem),biol-chem,ang-niem,155.00,,
-Mokotów,LO,XLIV LO im. S. Banacha,1D2 [O] hist-ang-wos (ang-fra),ang-hist-wos,ang-fra,131.30,,
-Mokotów,LO,XLIV LO im. S. Banacha,1A2 [O] inf-ang-mat (ang-fra),ang-inf-mat,ang-fra,146.30,,
-Mokotów,LO,XLIV LO im. S. Banacha,1A1 [O] inf-ang-mat (ang-niem),ang-inf-mat,ang-niem,158.00,,
-Mokotów,LO,XLIX LO z Odd. Dwujęzycznymi im. J. W. Goethego,1D [D] hist-ang-wos (niem-ang),ang-hist-wos,ang-niem,145.35,,
-Mokotów,LO,XLIX LO z Odd. Dwujęzycznymi im. J. W. Goethego,1B_2 [O] geogr-ang-niem (ang-niem*),ang-geogr-niem,ang-niem,158.00,,
-Mokotów,LO,XLIX LO z Odd. Dwujęzycznymi im. J. W. Goethego,1C [O] inf-ang-mat (ang-niem*),ang-inf-mat,ang-niem,158.70,,
-Mokotów,LO,XLIX LO z Odd. Dwujęzycznymi im. J. W. Goethego,1A [O] hist-ang-pol (ang-niem*),ang-hist-pol,ang-niem,145.30,,
-Mokotów,LO,XLIX LO z Odd. Dwujęzycznymi im. J. W. Goethego,1B_1 [O] geogr-ang-hiszp (ang-hisz*),ang-geogr-hiszp,ang-hisz,161.30,,
-Mokotów,LO,XXVIII LO im. J. Kochanowskiego,1B1 [O] fiz-inf-mat (ang-niem),fiz-inf-mat,ang-niem,173.85,,
-Mokotów,LO,XXVIII LO im. J. Kochanowskiego,1C1 [O] geogr-niem-mat (ang-niem),geogr-mat-niem,ang-niem,169.45,,
-Mokotów,LO,XXVIII LO im. J. Kochanowskiego,1B2 [O] fiz-inf-mat (ang-hisz),fiz-inf-mat,ang-hisz,172.90,,
-Mokotów,LO,XXVIII LO im. J. Kochanowskiego,1C2 [O] geogr-hiszp-mat (ang-hisz),geogr-hiszp-mat,ang-hisz,175.20,,
-Mokotów,LO,XXVIII LO im. J. Kochanowskiego,1D1 [O] biol-chem (ang-niem),biol-chem,ang-niem,170.85,,
-Mokotów,LO,XXVIII LO im. J. Kochanowskiego,1E1 [O] hist-pol-wos (ang-niem),hist-pol-wos,ang-niem,159.20,,
-Mokotów,LO,XXVIII LO im. J. Kochanowskiego,1D2 [O] biol-chem (ang-fra),biol-chem,ang-fra,171.00,,
-Mokotów,LO,XXVIII LO im. J. Kochanowskiego,1E2 [O] hist-pol-wos (ang-hisz),hist-pol-wos,ang-hisz,166.85,,
-Mokotów,LO,XXXIV LO z Oddziałami Dwujęzycznymi im. M. de Cervantesa,0h [DW] geogr-hist-hiszp (hisz-ang),geogr-hist-hiszp,ang-hisz,210.40,,
-Mokotów,LO,XXXIV LO z Oddziałami Dwujęzycznymi im. M. de Cervantesa,1c [O] h.szt.-hiszp-pol (hisz*-ang),h.szt.-hiszp-pol,ang-hisz,181.40,,
-Mokotów,LO,XXXIV LO z Oddziałami Dwujęzycznymi im. M. de Cervantesa,1a [O] geogr-hiszp-mat (hisz*-ang),geogr-hiszp-mat,ang-hisz,161.00,,
-Mokotów,LO,XXXIV LO z Oddziałami Dwujęzycznymi im. M. de Cervantesa,1d [O] ang-hiszp-pol (ang-hisz*),ang-hiszp-pol,ang-hisz,155.85,,
+Mokotów,LO,VI LO im. T. Reytana,1/2 [O] biol-chem-mat (ang-niem),biol-chem-mat,ang-niem,162.65,22,18.0
+Mokotów,LO,VI LO im. T. Reytana,1/1 [O] fiz-ang-mat (ang-niem),ang-fiz-mat,ang-niem,164.90,22,18.0
+Mokotów,LO,VI LO im. T. Reytana,1/4 [O] biz-ang-mat (ang-hisz),ang-biz-mat,ang-hisz,165.95,22,18.0
+Mokotów,LO,VI LO im. T. Reytana,1/3 [O] biol-chem-ang (ang-niem),ang-biol-chem,ang-niem,163.30,22,18.0
+Mokotów,LO,X LO im. Królowej Jadwigi,1CR [O] biz-geogr-mat (ang-ros),biz-geogr-mat,ang-ros,149.40,47,44.33
+Mokotów,LO,X LO im. Królowej Jadwigi,1BH [O] biol-inf-mat (ang-hisz),biol-inf-mat,ang-hisz,159.30,47,44.33
+Mokotów,LO,X LO im. Królowej Jadwigi,1BN [O] biol-inf-mat (ang-niem),biol-inf-mat,ang-niem,151.20,47,44.33
+Mokotów,LO,X LO im. Królowej Jadwigi,1AF [O] hist-pol-wos (ang-fra),hist-pol-wos,ang-fra,142.00,47,44.33
+Mokotów,LO,X LO im. Królowej Jadwigi,1AH [O] hist-pol-wos (ang-hisz),hist-pol-wos,ang-hisz,149.05,47,44.33
+Mokotów,LO,X LO im. Królowej Jadwigi,1CN [O] biz-geogr-mat (ang-niem),biz-geogr-mat,ang-niem,162.20,47,44.33
+Mokotów,LO,XLII LO im. M. Konopnickiej,1a [O] geogr-ang-mat (ang-niem),ang-geogr-mat,ang-niem,131.90,69,68.67
+Mokotów,LO,XLII LO im. M. Konopnickiej,1c [O] biol-chem-ang (ang-fra*),ang-biol-chem,ang-fra,138.10,69,68.67
+Mokotów,LO,XLII LO im. M. Konopnickiej,1b [O] hist-ang-pol (ang-wlo*),ang-hist-pol,ang-wlo,126.00,69,68.67
+Mokotów,LO,XLIII LO im. K. Wielkiego,1Bn [O] geogr-ang-mat (ang-niem),ang-geogr-mat,ang-niem,153.15,94,97.0
+Mokotów,LO,XLIII LO im. K. Wielkiego,1An [O] hist-ang-wos (ang-niem),ang-hist-wos,ang-niem,137.40,94,97.0
+Mokotów,LO,XLIII LO im. K. Wielkiego,1Df [O] biol-ang-pol (ang-fra),ang-biol-pol,ang-fra,123.80,94,97.0
+Mokotów,LO,XLIII LO im. K. Wielkiego,1Br [O] geogr-ang-mat (ang-ros),ang-geogr-mat,ang-ros,129.40,94,97.0
+Mokotów,LO,XLIII LO im. K. Wielkiego,1Cf [O] biol-chem-ang (ang-fra),ang-biol-chem,ang-fra,137.50,94,97.0
+Mokotów,LO,XLIII LO im. K. Wielkiego,1Ah [O] hist-ang-wos (ang-hisz),ang-hist-wos,ang-hisz,147.95,94,97.0
+Mokotów,LO,XLIII LO im. K. Wielkiego,1Ch [O] biol-chem-ang (ang-hisz),ang-biol-chem,ang-hisz,154.15,94,97.0
+Mokotów,LO,XLIII LO im. K. Wielkiego,1Dh [O] biol-ang-pol (ang-hisz),ang-biol-pol,ang-hisz,141.15,94,97.0
+Mokotów,LO,XLIV LO im. S. Banacha,1B2 [O] biol-chem (ang-fra),biol-chem,ang-fra,154.75,54,45.33
+Mokotów,LO,XLIV LO im. S. Banacha,1C1 [O] geogr-mat (ang-niem),geogr-mat,ang-niem,156.20,54,45.33
+Mokotów,LO,XLIV LO im. S. Banacha,1D1 [O] hist-ang-wos (ang-niem),ang-hist-wos,ang-niem,141.30,54,45.33
+Mokotów,LO,XLIV LO im. S. Banacha,1C2 [O] geogr-mat (ang-fra),geogr-mat,ang-fra,157.95,54,45.33
+Mokotów,LO,XLIV LO im. S. Banacha,1B1 [O] biol-chem (ang-niem),biol-chem,ang-niem,155.00,54,45.33
+Mokotów,LO,XLIV LO im. S. Banacha,1D2 [O] hist-ang-wos (ang-fra),ang-hist-wos,ang-fra,131.30,54,45.33
+Mokotów,LO,XLIV LO im. S. Banacha,1A2 [O] inf-ang-mat (ang-fra),ang-inf-mat,ang-fra,146.30,54,45.33
+Mokotów,LO,XLIV LO im. S. Banacha,1A1 [O] inf-ang-mat (ang-niem),ang-inf-mat,ang-niem,158.00,54,45.33
+Mokotów,LO,XLIX LO z Odd. Dwujęzycznymi im. J. W. Goethego,1D [D] hist-ang-wos (niem-ang),ang-hist-wos,ang-niem,145.35,48,51.67
+Mokotów,LO,XLIX LO z Odd. Dwujęzycznymi im. J. W. Goethego,1B_2 [O] geogr-ang-niem (ang-niem*),ang-geogr-niem,ang-niem,158.00,48,51.67
+Mokotów,LO,XLIX LO z Odd. Dwujęzycznymi im. J. W. Goethego,1C [O] inf-ang-mat (ang-niem*),ang-inf-mat,ang-niem,158.70,48,51.67
+Mokotów,LO,XLIX LO z Odd. Dwujęzycznymi im. J. W. Goethego,1A [O] hist-ang-pol (ang-niem*),ang-hist-pol,ang-niem,145.30,48,51.67
+Mokotów,LO,XLIX LO z Odd. Dwujęzycznymi im. J. W. Goethego,1B_1 [O] geogr-ang-hiszp (ang-hisz*),ang-geogr-hiszp,ang-hisz,161.30,48,51.67
+Mokotów,LO,XXVIII LO im. J. Kochanowskiego,1B1 [O] fiz-inf-mat (ang-niem),fiz-inf-mat,ang-niem,173.85,23,17.33
+Mokotów,LO,XXVIII LO im. J. Kochanowskiego,1C1 [O] geogr-niem-mat (ang-niem),geogr-mat-niem,ang-niem,169.45,23,17.33
+Mokotów,LO,XXVIII LO im. J. Kochanowskiego,1B2 [O] fiz-inf-mat (ang-hisz),fiz-inf-mat,ang-hisz,172.90,23,17.33
+Mokotów,LO,XXVIII LO im. J. Kochanowskiego,1C2 [O] geogr-hiszp-mat (ang-hisz),geogr-hiszp-mat,ang-hisz,175.20,23,17.33
+Mokotów,LO,XXVIII LO im. J. Kochanowskiego,1D1 [O] biol-chem (ang-niem),biol-chem,ang-niem,170.85,23,17.33
+Mokotów,LO,XXVIII LO im. J. Kochanowskiego,1E1 [O] hist-pol-wos (ang-niem),hist-pol-wos,ang-niem,159.20,23,17.33
+Mokotów,LO,XXVIII LO im. J. Kochanowskiego,1D2 [O] biol-chem (ang-fra),biol-chem,ang-fra,171.00,23,17.33
+Mokotów,LO,XXVIII LO im. J. Kochanowskiego,1E2 [O] hist-pol-wos (ang-hisz),hist-pol-wos,ang-hisz,166.85,23,17.33
+Mokotów,LO,XXXIV LO z Oddziałami Dwujęzycznymi im. M. de Cervantesa,0h [DW] geogr-hist-hiszp (hisz-ang),geogr-hist-hiszp,ang-hisz,210.40,30,39.33
+Mokotów,LO,XXXIV LO z Oddziałami Dwujęzycznymi im. M. de Cervantesa,1c [O] h.szt.-hiszp-pol (hisz*-ang),h.szt.-hiszp-pol,ang-hisz,181.40,30,39.33
+Mokotów,LO,XXXIV LO z Oddziałami Dwujęzycznymi im. M. de Cervantesa,1a [O] geogr-hiszp-mat (hisz*-ang),geogr-hiszp-mat,ang-hisz,161.00,30,39.33
+Mokotów,LO,XXXIV LO z Oddziałami Dwujęzycznymi im. M. de Cervantesa,1d [O] ang-hiszp-pol (ang-hisz*),ang-hiszp-pol,ang-hisz,155.85,30,39.33
 Ochota,BS I st.,Branżowa Szkoła Samochodowa I stopnia nr 2,1AB/bs1 [O] Mechanik pojazdów samochodowych (ang),Mechanik pojazdów samochodowych,ang,49.00,,
-Ochota,LO,CLX LO im. gen. dyw. S. Roweckiego „Grota”,1aF [O] geogr-mat (ang-fra),geogr-mat,ang-fra,116.45,,
-Ochota,LO,CLX LO im. gen. dyw. S. Roweckiego „Grota”,1bH [O] ang-hiszp-pol (ang-hisz),ang-hiszp-pol,ang-hisz,137.05,,
-Ochota,LO,CLX LO im. gen. dyw. S. Roweckiego „Grota”,1cH [O] biol-chem (ang-hisz),biol-chem,ang-hisz,135.35,,
-Ochota,LO,CLX LO im. gen. dyw. S. Roweckiego „Grota”,1aN [O] geogr-mat (ang-niem),geogr-mat,ang-niem,131.05,,
-Ochota,LO,CLX LO im. gen. dyw. S. Roweckiego „Grota”,1cN [O] biol-chem (ang-niem),biol-chem,ang-niem,121.20,,
-Ochota,LO,CLX LO im. gen. dyw. S. Roweckiego „Grota”,1dF [O] biz-ang (ang-fra),ang-biz,ang-fra,139.05,,
-Ochota,LO,CLX LO im. gen. dyw. S. Roweckiego „Grota”,1dN [O] biz-ang (ang-niem),ang-biz,ang-niem,131.85,,
-Ochota,LO,CLX LO im. gen. dyw. S. Roweckiego „Grota”,1bN [O] ang-niem-pol (ang-niem),ang-niem-pol,ang-niem,115.30,,
+Ochota,LO,CLX LO im. gen. dyw. S. Roweckiego „Grota”,1aF [O] geogr-mat (ang-fra),geogr-mat,ang-fra,116.45,97,94.67
+Ochota,LO,CLX LO im. gen. dyw. S. Roweckiego „Grota”,1bH [O] ang-hiszp-pol (ang-hisz),ang-hiszp-pol,ang-hisz,137.05,97,94.67
+Ochota,LO,CLX LO im. gen. dyw. S. Roweckiego „Grota”,1cH [O] biol-chem (ang-hisz),biol-chem,ang-hisz,135.35,97,94.67
+Ochota,LO,CLX LO im. gen. dyw. S. Roweckiego „Grota”,1aN [O] geogr-mat (ang-niem),geogr-mat,ang-niem,131.05,97,94.67
+Ochota,LO,CLX LO im. gen. dyw. S. Roweckiego „Grota”,1cN [O] biol-chem (ang-niem),biol-chem,ang-niem,121.20,97,94.67
+Ochota,LO,CLX LO im. gen. dyw. S. Roweckiego „Grota”,1dF [O] biz-ang (ang-fra),ang-biz,ang-fra,139.05,97,94.67
+Ochota,LO,CLX LO im. gen. dyw. S. Roweckiego „Grota”,1dN [O] biz-ang (ang-niem),ang-biz,ang-niem,131.85,97,94.67
+Ochota,LO,CLX LO im. gen. dyw. S. Roweckiego „Grota”,1bN [O] ang-niem-pol (ang-niem),ang-niem-pol,ang-niem,115.30,97,94.67
 Ochota,LO,"LXIX LO z Oddziałami Integracyjnymi im. Bohaterów Powstania
 Warszawskiego 1944",1C/1 [I-o] biol-ang (ang-niem),ang-biol,ang-niem,130.15,,
 Ochota,LO,"LXIX LO z Oddziałami Integracyjnymi im. Bohaterów Powstania
@@ -230,27 +230,27 @@ Ochota,T,Technikum nr 7,1oze [O] Technik urządzeń i systemów energetyki odnaw
 Ochota,T,Technikum nr 7,1lb [O] Technik logistyk (ang-niem),Technik logistyk,ang-niem,72.35,,
 Ochota,T,Technikum nr 7,1lg [O] Technik logistyk (ang-niem),Technik logistyk,ang-niem,37.85,,
 Ochota,T,Technikum Samochodowe nr 1 im. R. M. Pijanowskiego,1AB [O] Technik pojazdów samochodowych (ang-niem),Technik pojazdów samochodowych,ang-niem,79.40,,
-Ochota,LO,VII LO im. J. Słowackiego,1B [O] geogr-niem-mat (ang-niem*),geogr-mat-niem,ang-niem,171.35,,
-Ochota,LO,VII LO im. J. Słowackiego,1A [O] hist-pol-wos (ang-fra*),hist-pol-wos,ang-fra,168.05,,
-Ochota,LO,VII LO im. J. Słowackiego,1C [O] fiz-inf-mat (ang-niem*),fiz-inf-mat,ang-niem,172.85,,
-Ochota,LO,VII LO im. J. Słowackiego,1D [O] hist-pol-wos (ang-fra*),hist-pol-wos,ang-fra,166.30,,
-Ochota,LO,VII LO im. J. Słowackiego,1E [O] biol-chem (ang-niem*),biol-chem,ang-niem,172.10,,
-Ochota,LO,XIV LO im. S. Staszica,"1AB [O] fiz-mat (ang-niem,hisz*)",fiz-mat,ang-hisz-niem,164.45,,
-Ochota,LO,XIV LO im. S. Staszica,"1E [O] chem-fiz-mat (ang-niem,hisz*)",chem-fiz-mat,ang-hisz-niem,172.50,,
-Ochota,LO,XIV LO im. S. Staszica,"1C [O] fiz-inf-mat (ang-niem,hisz*)",fiz-inf-mat,ang-hisz-niem,181.75,,
-Ochota,LO,XIV LO im. S. Staszica,"1F [O] fiz-mat (ang-niem,hisz*)",fiz-mat,ang-hisz-niem,176.15,,
-Ochota,LO,XIV LO im. S. Staszica,"1D [O] biol-chem-mat (ang-niem,hisz*)",biol-chem-mat,ang-hisz-niem,179.55,,
-Ochota,LO,XLVIII LO im. E. Dembowskiego,"1B [O] biol-chem (ang-niem*,ros*)",biol-chem,ang-niem-ros,146.30,,
-Ochota,LO,XLVIII LO im. E. Dembowskiego,"1A [O] hist-pol-wos (ang-niem*,ros*)",hist-pol-wos,ang-niem-ros,131.25,,
-Ochota,LO,XLVIII LO im. E. Dembowskiego,"1D_geo [O] geogr-inf-mat (ang-niem*,ros*)",geogr-inf-mat,ang-niem-ros,135.90,,
-Ochota,LO,XLVIII LO im. E. Dembowskiego,"1C [O] biz-ang-mat (ang-niem*,ros*)",ang-biz-mat,ang-niem-ros,149.30,,
-Ochota,LO,XLVIII LO im. E. Dembowskiego,"1D_fiz [O] fiz-inf-mat (ang-niem*,ros*)",fiz-inf-mat,ang-niem-ros,141.50,,
-Ochota,LO,XXI LO im. H. Kołłątaja,"1A [O] fiz-inf-mat (ang-hisz*,niem*)",fiz-inf-mat,ang-hisz-niem,161.35,,
-Ochota,LO,XXI LO im. H. Kołłątaja,"1F [O] h.szt.-inf-mat (ang-hisz*,niem*)",h.szt.-inf-mat,ang-hisz-niem,153.55,,
-Ochota,LO,XXI LO im. H. Kołłątaja,"1D [D] biol-chem-ang (ang-fra*,niem*)",ang-biol-chem,ang-fra-niem,167.55,,
-Ochota,LO,XXI LO im. H. Kołłątaja,"1C [D] inf-ang-mat (ang-fra*,hisz*)",ang-inf-mat,ang-fra-hisz,174.86,,
-Ochota,LO,XXI LO im. H. Kołłątaja,"1E [O] hist-ang-wos (ang-fra*,niem*)",ang-hist-wos,ang-fra-niem,148.30,,
-Ochota,LO,XXI LO im. H. Kołłątaja,"1B [O] biz-geogr-mat (ang-fra*,hisz*)",biz-geogr-mat,ang-fra-hisz,164.55,,
+Ochota,LO,VII LO im. J. Słowackiego,1B [O] geogr-niem-mat (ang-niem*),geogr-mat-niem,ang-niem,171.35,13,12.67
+Ochota,LO,VII LO im. J. Słowackiego,1A [O] hist-pol-wos (ang-fra*),hist-pol-wos,ang-fra,168.05,13,12.67
+Ochota,LO,VII LO im. J. Słowackiego,1C [O] fiz-inf-mat (ang-niem*),fiz-inf-mat,ang-niem,172.85,13,12.67
+Ochota,LO,VII LO im. J. Słowackiego,1D [O] hist-pol-wos (ang-fra*),hist-pol-wos,ang-fra,166.30,13,12.67
+Ochota,LO,VII LO im. J. Słowackiego,1E [O] biol-chem (ang-niem*),biol-chem,ang-niem,172.10,13,12.67
+Ochota,LO,XIV LO im. S. Staszica,"1AB [O] fiz-mat (ang-niem,hisz*)",fiz-mat,ang-hisz-niem,164.45,1,1.0
+Ochota,LO,XIV LO im. S. Staszica,"1E [O] chem-fiz-mat (ang-niem,hisz*)",chem-fiz-mat,ang-hisz-niem,172.50,1,1.0
+Ochota,LO,XIV LO im. S. Staszica,"1C [O] fiz-inf-mat (ang-niem,hisz*)",fiz-inf-mat,ang-hisz-niem,181.75,1,1.0
+Ochota,LO,XIV LO im. S. Staszica,"1F [O] fiz-mat (ang-niem,hisz*)",fiz-mat,ang-hisz-niem,176.15,1,1.0
+Ochota,LO,XIV LO im. S. Staszica,"1D [O] biol-chem-mat (ang-niem,hisz*)",biol-chem-mat,ang-hisz-niem,179.55,1,1.0
+Ochota,LO,XLVIII LO im. E. Dembowskiego,"1B [O] biol-chem (ang-niem*,ros*)",biol-chem,ang-niem-ros,146.30,62,72.33
+Ochota,LO,XLVIII LO im. E. Dembowskiego,"1A [O] hist-pol-wos (ang-niem*,ros*)",hist-pol-wos,ang-niem-ros,131.25,62,72.33
+Ochota,LO,XLVIII LO im. E. Dembowskiego,"1D_geo [O] geogr-inf-mat (ang-niem*,ros*)",geogr-inf-mat,ang-niem-ros,135.90,62,72.33
+Ochota,LO,XLVIII LO im. E. Dembowskiego,"1C [O] biz-ang-mat (ang-niem*,ros*)",ang-biz-mat,ang-niem-ros,149.30,62,72.33
+Ochota,LO,XLVIII LO im. E. Dembowskiego,"1D_fiz [O] fiz-inf-mat (ang-niem*,ros*)",fiz-inf-mat,ang-niem-ros,141.50,62,72.33
+Ochota,LO,XXI LO im. H. Kołłątaja,"1A [O] fiz-inf-mat (ang-hisz*,niem*)",fiz-inf-mat,ang-hisz-niem,161.35,32,32.33
+Ochota,LO,XXI LO im. H. Kołłątaja,"1F [O] h.szt.-inf-mat (ang-hisz*,niem*)",h.szt.-inf-mat,ang-hisz-niem,153.55,32,32.33
+Ochota,LO,XXI LO im. H. Kołłątaja,"1D [D] biol-chem-ang (ang-fra*,niem*)",ang-biol-chem,ang-fra-niem,167.55,32,32.33
+Ochota,LO,XXI LO im. H. Kołłątaja,"1C [D] inf-ang-mat (ang-fra*,hisz*)",ang-inf-mat,ang-fra-hisz,174.86,32,32.33
+Ochota,LO,XXI LO im. H. Kołłątaja,"1E [O] hist-ang-wos (ang-fra*,niem*)",ang-hist-wos,ang-fra-niem,148.30,32,32.33
+Ochota,LO,XXI LO im. H. Kołłątaja,"1B [O] biz-geogr-mat (ang-fra*,hisz*)",biz-geogr-mat,ang-fra-hisz,164.55,32,32.33
 Praga-Południe,BS I st.,Branżowa Szkoła I stopnia nr 20 im. prof. S. Bergera,1c [O] Cukiernik (ang),Cukiernik,ang,29.85,,
 Praga-Południe,BS I st.,Branżowa Szkoła I stopnia nr 20 im. prof. S. Bergera,1a [O] Kucharz (ang),Kucharz,ang,39.85,,
 Praga-Południe,BS I st.,"Branżowa Szkoła Spożywczo-Gastronomiczna I stopnia im.
@@ -263,11 +263,11 @@ Praga-Południe,BS I st.,"Branżowa Szkoła Spożywczo-Gastronomiczna I stopnia 
 Jana Pawła II",1b [I-o] Kucharz (ang),Kucharz,ang,26.95,,
 Praga-Południe,LO,CXI LO z Oddziałami Integracyjnymi im. S. Kisielewskiego,1Aa [I-o] pol (ang-niem),pol,ang-niem,96.90,,
 Praga-Południe,LO,CXI LO z Oddziałami Integracyjnymi im. S. Kisielewskiego,1Bm [O] pol (ang-niem),pol,ang-niem,79.90,,
-Praga-Południe,LO,IV LO im. A. Mickiewicza,1a [O] fiz-ang-mat (ang-niem),ang-fiz-mat,ang-niem,151.00,,
-Praga-Południe,LO,IV LO im. A. Mickiewicza,1dj [D] geogr-mat (ang-hisz),geogr-mat,ang-hisz,173.73,,
-Praga-Południe,LO,IV LO im. A. Mickiewicza,1l [O] biol-chem-mat (ang-niem),biol-chem-mat,ang-niem,158.85,,
-Praga-Południe,LO,IV LO im. A. Mickiewicza,1s [O] geogr-ang-mat (ang-niem),ang-geogr-mat,ang-niem,159.95,,
-Praga-Południe,LO,IV LO im. A. Mickiewicza,1i [O] inf-ang-mat (ang-hisz),ang-inf-mat,ang-hisz,153.05,,
+Praga-Południe,LO,IV LO im. A. Mickiewicza,1a [O] fiz-ang-mat (ang-niem),ang-fiz-mat,ang-niem,151.00,51,47.67
+Praga-Południe,LO,IV LO im. A. Mickiewicza,1dj [D] geogr-mat (ang-hisz),geogr-mat,ang-hisz,173.73,51,47.67
+Praga-Południe,LO,IV LO im. A. Mickiewicza,1l [O] biol-chem-mat (ang-niem),biol-chem-mat,ang-niem,158.85,51,47.67
+Praga-Południe,LO,IV LO im. A. Mickiewicza,1s [O] geogr-ang-mat (ang-niem),ang-geogr-mat,ang-niem,159.95,51,47.67
+Praga-Południe,LO,IV LO im. A. Mickiewicza,1i [O] inf-ang-mat (ang-hisz),ang-inf-mat,ang-hisz,153.05,51,47.67
 Praga-Południe,LO,LXXII LO im. gen. J. Jasińskiego,1b-h [O] geogr-ang-mat (ang-hisz*),ang-geogr-mat,ang-hisz,129.90,,
 Praga-Południe,LO,LXXII LO im. gen. J. Jasińskiego,1c-n [O] biol-chem-ang (ang-niem*),ang-biol-chem,ang-niem,130.45,,
 Praga-Południe,LO,LXXII LO im. gen. J. Jasińskiego,1a-n [O] geogr-ang-wos (ang-niem*),ang-geogr-wos,ang-niem,118.75,,
@@ -294,45 +294,45 @@ Praga-Południe,T,Technikum nr 27 im. prof. J. Zawadzkiego,1TA [O] Technik anali
 Praga-Południe,T,Technikum nr 27 im. prof. J. Zawadzkiego,1TK [O] Technik chłodnictwa i klimatyzacji (ang-niem),Technik chłodnictwa i klimatyzacji,ang-niem,50.75,,
 Praga-Południe,T,Technikum Spożywczo-Gastronomiczne im. Jana Pawła II,1ATT [O] Technik żywienia i usług gastronomicznych (ang-hisz),Technik żywienia i usług gastronomicznych,ang-hisz,47.50,,
 Praga-Południe,T,Technikum Spożywczo-Gastronomiczne im. Jana Pawła II,1AT [O] Technik żywienia i usług gastronomicznych (ang-niem),Technik żywienia i usług gastronomicznych,ang-niem,38.15,,
-Praga-Południe,LO,XCIX LO z Oddziałami Dwujęzycznymi im. Z. Herberta,"1F [O] biol-chem-mat (ang-niem*,fra*,ros)",biol-chem-mat,ang-fra-niem-ros,117.70,,
-Praga-Południe,LO,XCIX LO z Oddziałami Dwujęzycznymi im. Z. Herberta,1D_n [O] geogr-ang-mat (ang-niem),ang-geogr-mat,ang-niem,145.75,,
-Praga-Południe,LO,XCIX LO z Oddziałami Dwujęzycznymi im. Z. Herberta,"1B [O] fiz-inf-mat (ang-niem*,fra*,ros)",fiz-inf-mat,ang-fra-niem-ros,82.30,,
-Praga-Południe,LO,XCIX LO z Oddziałami Dwujęzycznymi im. Z. Herberta,1D_h [O] geogr-ang-mat (ang-hisz),ang-geogr-mat,ang-hisz,151.80,,
-Praga-Południe,LO,XCIX LO z Oddziałami Dwujęzycznymi im. Z. Herberta,"1A [O] hist-ang-pol (ang-niem*,fra*,ros)",ang-hist-pol,ang-fra-niem-ros,129.70,,
-Praga-Południe,LO,XCIX LO z Oddziałami Dwujęzycznymi im. Z. Herberta,1E_h [D] geogr-mat (ang-hisz),geogr-mat,ang-hisz,138.88,,
-Praga-Południe,LO,XCIX LO z Oddziałami Dwujęzycznymi im. Z. Herberta,1E_f [D] geogr-mat (ang-fra),geogr-mat,ang-fra,138.04,,
+Praga-Południe,LO,XCIX LO z Oddziałami Dwujęzycznymi im. Z. Herberta,"1F [O] biol-chem-mat (ang-niem*,fra*,ros)",biol-chem-mat,ang-fra-niem-ros,117.70,82,63.0
+Praga-Południe,LO,XCIX LO z Oddziałami Dwujęzycznymi im. Z. Herberta,1D_n [O] geogr-ang-mat (ang-niem),ang-geogr-mat,ang-niem,145.75,82,63.0
+Praga-Południe,LO,XCIX LO z Oddziałami Dwujęzycznymi im. Z. Herberta,"1B [O] fiz-inf-mat (ang-niem*,fra*,ros)",fiz-inf-mat,ang-fra-niem-ros,82.30,82,63.0
+Praga-Południe,LO,XCIX LO z Oddziałami Dwujęzycznymi im. Z. Herberta,1D_h [O] geogr-ang-mat (ang-hisz),ang-geogr-mat,ang-hisz,151.80,82,63.0
+Praga-Południe,LO,XCIX LO z Oddziałami Dwujęzycznymi im. Z. Herberta,"1A [O] hist-ang-pol (ang-niem*,fra*,ros)",ang-hist-pol,ang-fra-niem-ros,129.70,82,63.0
+Praga-Południe,LO,XCIX LO z Oddziałami Dwujęzycznymi im. Z. Herberta,1E_h [D] geogr-mat (ang-hisz),geogr-mat,ang-hisz,138.88,82,63.0
+Praga-Południe,LO,XCIX LO z Oddziałami Dwujęzycznymi im. Z. Herberta,1E_f [D] geogr-mat (ang-fra),geogr-mat,ang-fra,138.04,82,63.0
 Praga-Południe,LO,XCVI LO im. Agnieszki Osieckiej,1La [O] hist-pol (ang-fra),hist-pol,ang-fra,94.65,,
 Praga-Południe,LO,XCVII LO im. Olimpijczyków Polskich,1A [O] inf-ang-pol (ang-niem),ang-inf-pol,ang-niem,96.70,,
-Praga-Południe,LO,XIX LO im. Powstańców Warszawy,1a/franc [O] biol-chem-mat (ang-fra*),biol-chem-mat,ang-fra,162.45,,
-Praga-Południe,LO,XIX LO im. Powstańców Warszawy,1a/hiszp [O] biol-chem-mat (ang-hisz*),biol-chem-mat,ang-hisz,168.95,,
-Praga-Południe,LO,XIX LO im. Powstańców Warszawy,1b/hiszp [O] hist-pol-wos (ang-hisz*),hist-pol-wos,ang-hisz,155.80,,
-Praga-Południe,LO,XIX LO im. Powstańców Warszawy,1b/niem [O] hist-pol-wos (ang-niem*),hist-pol-wos,ang-niem,137.05,,
-Praga-Południe,LO,XIX LO im. Powstańców Warszawy,1c/niem [O] geogr-ang-mat (ang-niem*),ang-geogr-mat,ang-niem,164.20,,
-Praga-Południe,LO,XIX LO im. Powstańców Warszawy,1c/hiszp [O] geogr-ang-mat (ang-hisz*),ang-geogr-mat,ang-hisz,169.30,,
-Praga-Południe,LO,XIX LO im. Powstańców Warszawy,1d/franc [O] fiz-ang-mat (ang-fra*),ang-fiz-mat,ang-fra,155.60,,
-Praga-Południe,LO,XIX LO im. Powstańców Warszawy,1d/hiszp [O] fiz-ang-mat (ang-hisz*),ang-fiz-mat,ang-hisz,167.10,,
-Praga-Południe,LO,XLVII LO im. S. Wyspiańskiego,"1A [O] inf-ang-mat (ang-hisz*,niem*)",ang-inf-mat,ang-hisz-niem,140.40,,
-Praga-Południe,LO,XLVII LO im. S. Wyspiańskiego,"1E [O] ang-pol-wos (ang-hisz*,niem*)",ang-pol-wos,ang-hisz-niem,135.25,,
-Praga-Południe,LO,XLVII LO im. S. Wyspiańskiego,"1C [O] biol-chem-ang (ang-hisz*,niem*)",ang-biol-chem,ang-hisz-niem,143.35,,
-Praga-Południe,LO,XLVII LO im. S. Wyspiańskiego,"1B [O] geogr-ang-mat (ang-niem*,hisz*)",ang-geogr-mat,ang-hisz-niem,146.40,,
+Praga-Południe,LO,XIX LO im. Powstańców Warszawy,1a/franc [O] biol-chem-mat (ang-fra*),biol-chem-mat,ang-fra,162.45,21,26.67
+Praga-Południe,LO,XIX LO im. Powstańców Warszawy,1a/hiszp [O] biol-chem-mat (ang-hisz*),biol-chem-mat,ang-hisz,168.95,21,26.67
+Praga-Południe,LO,XIX LO im. Powstańców Warszawy,1b/hiszp [O] hist-pol-wos (ang-hisz*),hist-pol-wos,ang-hisz,155.80,21,26.67
+Praga-Południe,LO,XIX LO im. Powstańców Warszawy,1b/niem [O] hist-pol-wos (ang-niem*),hist-pol-wos,ang-niem,137.05,21,26.67
+Praga-Południe,LO,XIX LO im. Powstańców Warszawy,1c/niem [O] geogr-ang-mat (ang-niem*),ang-geogr-mat,ang-niem,164.20,21,26.67
+Praga-Południe,LO,XIX LO im. Powstańców Warszawy,1c/hiszp [O] geogr-ang-mat (ang-hisz*),ang-geogr-mat,ang-hisz,169.30,21,26.67
+Praga-Południe,LO,XIX LO im. Powstańców Warszawy,1d/franc [O] fiz-ang-mat (ang-fra*),ang-fiz-mat,ang-fra,155.60,21,26.67
+Praga-Południe,LO,XIX LO im. Powstańców Warszawy,1d/hiszp [O] fiz-ang-mat (ang-hisz*),ang-fiz-mat,ang-hisz,167.10,21,26.67
+Praga-Południe,LO,XLVII LO im. S. Wyspiańskiego,"1A [O] inf-ang-mat (ang-hisz*,niem*)",ang-inf-mat,ang-hisz-niem,140.40,58,67.0
+Praga-Południe,LO,XLVII LO im. S. Wyspiańskiego,"1E [O] ang-pol-wos (ang-hisz*,niem*)",ang-pol-wos,ang-hisz-niem,135.25,58,67.0
+Praga-Południe,LO,XLVII LO im. S. Wyspiańskiego,"1C [O] biol-chem-ang (ang-hisz*,niem*)",ang-biol-chem,ang-hisz-niem,143.35,58,67.0
+Praga-Południe,LO,XLVII LO im. S. Wyspiańskiego,"1B [O] geogr-ang-mat (ang-niem*,hisz*)",ang-geogr-mat,ang-hisz-niem,146.40,58,67.0
 Praga-Południe,LO,XXIII LO im. M. Skłodowskiej-Curie,1A/biz [O] biz-ang-wos (ang-niem*),ang-biz-wos,ang-niem,120.95,,
 Praga-Południe,LO,XXIII LO im. M. Skłodowskiej-Curie,1B/chem [O] biol-chem-ang (ang-niem*),ang-biol-chem,ang-niem,133.90,,
 Praga-Południe,LO,XXIII LO im. M. Skłodowskiej-Curie,1A/geo [O] geogr-ang-wos (ang-niem*),ang-geogr-wos,ang-niem,122.55,,
 Praga-Południe,LO,XXIII LO im. M. Skłodowskiej-Curie,1B/geo [O] biol-geogr-ang (ang-niem*),ang-biol-geogr,ang-niem,107.65,,
-Praga-Południe,LO,XXXV LO z Oddziałami Dwujęzycznymi im. B. Prusa,"1c [O] fiz-ang-mat (ang-niem,fra,hisz*)",ang-fiz-mat,ang-fra-hisz-niem,167.70,,
-Praga-Południe,LO,XXXV LO z Oddziałami Dwujęzycznymi im. B. Prusa,1m [M] (ang-hisz*),brak rozszerzeń,ang-hisz,194.19,,
-Praga-Południe,LO,XXXV LO z Oddziałami Dwujęzycznymi im. B. Prusa,"1a [D] geogr-mat-wos (ang-fra,hisz*,niem)",geogr-mat-wos,ang-fra-hisz-niem,183.80,,
-Praga-Południe,LO,XXXV LO z Oddziałami Dwujęzycznymi im. B. Prusa,"1d [O] biol-chem-mat (ang-niem,hisz*,fra)",biol-chem-mat,ang-fra-hisz-niem,171.55,,
-Praga-Południe,LO,XXXV LO z Oddziałami Dwujęzycznymi im. B. Prusa,"1e [O] hist-ang-pol (ang-niem,fra,hisz*)",ang-hist-pol,ang-fra-hisz-niem,153.35,,
-Praga-Południe,LO,XXXV LO z Oddziałami Dwujęzycznymi im. B. Prusa,"1b [O] geogr-ang-mat (ang-niem,fra,hisz*)",ang-geogr-mat,ang-fra-hisz-niem,167.95,,
+Praga-Południe,LO,XXXV LO z Oddziałami Dwujęzycznymi im. B. Prusa,"1c [O] fiz-ang-mat (ang-niem,fra,hisz*)",ang-fiz-mat,ang-fra-hisz-niem,167.70,34,28.67
+Praga-Południe,LO,XXXV LO z Oddziałami Dwujęzycznymi im. B. Prusa,1m [M] (ang-hisz*),brak rozszerzeń,ang-hisz,194.19,34,28.67
+Praga-Południe,LO,XXXV LO z Oddziałami Dwujęzycznymi im. B. Prusa,"1a [D] geogr-mat-wos (ang-fra,hisz*,niem)",geogr-mat-wos,ang-fra-hisz-niem,183.80,34,28.67
+Praga-Południe,LO,XXXV LO z Oddziałami Dwujęzycznymi im. B. Prusa,"1d [O] biol-chem-mat (ang-niem,hisz*,fra)",biol-chem-mat,ang-fra-hisz-niem,171.55,34,28.67
+Praga-Południe,LO,XXXV LO z Oddziałami Dwujęzycznymi im. B. Prusa,"1e [O] hist-ang-pol (ang-niem,fra,hisz*)",ang-hist-pol,ang-fra-hisz-niem,153.35,34,28.67
+Praga-Południe,LO,XXXV LO z Oddziałami Dwujęzycznymi im. B. Prusa,"1b [O] geogr-ang-mat (ang-niem,fra,hisz*)",ang-geogr-mat,ang-fra-hisz-niem,167.95,34,28.67
 Praga-Północ,BS I st.,Branżowa Szkoła I stopnia nr 7,1ab [O] Mechanik pojazdów samochodowych (ang*),Mechanik pojazdów samochodowych,ang,19.25,,
 Praga-Północ,BS I st.,Branżowa Szkoła I stopnia nr 7,1bb [O] Elektryk (ang*),Elektryk,ang,40.65,,
-Praga-Północ,LO,L LO z Oddziałami Integracyjnymi im. Ruy Barbosy,"1c [O] biol-chem-mat (ang-niem*,por,ros,łac)",biol-chem-mat,ang-niem-por-ros-łac,107.30,,
-Praga-Północ,LO,L LO z Oddziałami Integracyjnymi im. Ruy Barbosy,"1d-o [I-o] hist-pol-wos (ang-niem*,por,ros)",hist-pol-wos,ang-niem-por-ros,105.40,,
-Praga-Północ,LO,L LO z Oddziałami Integracyjnymi im. Ruy Barbosy,"1a [O] hist-pol-wos (ang-niem*,por,ros,łac)",hist-pol-wos,ang-niem-por-ros-łac,114.75,,
-Praga-Północ,LO,L LO z Oddziałami Integracyjnymi im. Ruy Barbosy,"1e [O] biol-geogr-ang (ang-niem*,por,ros)",ang-biol-geogr,ang-niem-por-ros,96.65,,
-Praga-Północ,LO,L LO z Oddziałami Integracyjnymi im. Ruy Barbosy,"1k [O] fiz-inf-mat (ang-niem*,por,ros)",fiz-inf-mat,ang-niem-por-ros,45.65,,
-Praga-Północ,LO,L LO z Oddziałami Integracyjnymi im. Ruy Barbosy,"1i-o [I-o] biol-ang-wos (ang-niem*,por,ros)",ang-biol-wos,ang-niem-por-ros,125.20,,
+Praga-Północ,LO,L LO z Oddziałami Integracyjnymi im. Ruy Barbosy,"1c [O] biol-chem-mat (ang-niem*,por,ros,łac)",biol-chem-mat,ang-niem-por-ros-łac,107.30,76,68.67
+Praga-Północ,LO,L LO z Oddziałami Integracyjnymi im. Ruy Barbosy,"1d-o [I-o] hist-pol-wos (ang-niem*,por,ros)",hist-pol-wos,ang-niem-por-ros,105.40,76,68.67
+Praga-Północ,LO,L LO z Oddziałami Integracyjnymi im. Ruy Barbosy,"1a [O] hist-pol-wos (ang-niem*,por,ros,łac)",hist-pol-wos,ang-niem-por-ros-łac,114.75,76,68.67
+Praga-Północ,LO,L LO z Oddziałami Integracyjnymi im. Ruy Barbosy,"1e [O] biol-geogr-ang (ang-niem*,por,ros)",ang-biol-geogr,ang-niem-por-ros,96.65,76,68.67
+Praga-Północ,LO,L LO z Oddziałami Integracyjnymi im. Ruy Barbosy,"1k [O] fiz-inf-mat (ang-niem*,por,ros)",fiz-inf-mat,ang-niem-por-ros,45.65,76,68.67
+Praga-Północ,LO,L LO z Oddziałami Integracyjnymi im. Ruy Barbosy,"1i-o [I-o] biol-ang-wos (ang-niem*,por,ros)",ang-biol-wos,ang-niem-por-ros,125.20,76,68.67
 Praga-Północ,LO,LXXVI LO im. Marszałka J. Piłsudskiego,"1K [O] biol-geogr-ang (ang-hisz*,niem*)",ang-biol-geogr,ang-hisz-niem,81.55,,
 Praga-Północ,LO,LXXVI LO im. Marszałka J. Piłsudskiego,"1C [O] hist-ang-wos (ang-niem*,ros)",ang-hist-wos,ang-niem-ros,92.70,,
 Praga-Północ,LO,LXXVI LO im. Marszałka J. Piłsudskiego,"1P [O] hist-ang-wos (ang-hisz*,niem*)",ang-hist-wos,ang-hisz-niem,95.65,,
@@ -358,29 +358,29 @@ Praga-Północ,T,Technikum nr 20,"1G [O] Technik hotelarstwa (ang-niem,ros,hisz)
 Praga-Północ,T,Technikum nr 20,"1E [O] Technik organizacji turystyki (ang-niem,ros,hisz)",Technik organizacji turystyki,ang-hisz-niem-ros,66.05,,
 Praga-Północ,T,Technikum nr 6,"1ct [O] Technik elektryk (ang*-niem*,ros*)",Technik elektryk,ang-niem-ros,44.70,,
 Praga-Północ,T,Technikum nr 6,"1abt [O] Technik pojazdów samochodowych (ang*-niem*,ros*)",Technik pojazdów samochodowych,ang-niem-ros,57.55,,
-Praga-Północ,LO,VIII LO im. Władysława IV,"1A [O] hist-mat-wos (ang-fra*,niem*,hisz*,ros)",hist-mat-wos,ang-fra-hisz-niem-ros,169.00,,
-Praga-Północ,LO,VIII LO im. Władysława IV,"1B [O] biol-chem-mat (ang-fra*,hisz*,niem*,ros)",biol-chem-mat,ang-fra-hisz-niem-ros,176.15,,
-Praga-Północ,LO,VIII LO im. Władysława IV,"1E [O] geogr-ang-mat (ang-fra*,hisz*,niem*,ros)",ang-geogr-mat,ang-fra-hisz-niem-ros,171.55,,
-Praga-Północ,LO,VIII LO im. Władysława IV,"1CD/1 [O] fiz-inf-mat (ang-fra*,hisz*,niem*,ros)",fiz-inf-mat,ang-fra-hisz-niem-ros,176.00,,
-Praga-Północ,LO,VIII LO im. Władysława IV,"1CD/2 [O] chem-fiz-mat (ang-fra*,hisz*,niem*,ros)",chem-fiz-mat,ang-fra-hisz-niem-ros,175.35,,
+Praga-Północ,LO,VIII LO im. Władysława IV,"1A [O] hist-mat-wos (ang-fra*,niem*,hisz*,ros)",hist-mat-wos,ang-fra-hisz-niem-ros,169.00,5,3.67
+Praga-Północ,LO,VIII LO im. Władysława IV,"1B [O] biol-chem-mat (ang-fra*,hisz*,niem*,ros)",biol-chem-mat,ang-fra-hisz-niem-ros,176.15,5,3.67
+Praga-Północ,LO,VIII LO im. Władysława IV,"1E [O] geogr-ang-mat (ang-fra*,hisz*,niem*,ros)",ang-geogr-mat,ang-fra-hisz-niem-ros,171.55,5,3.67
+Praga-Północ,LO,VIII LO im. Władysława IV,"1CD/1 [O] fiz-inf-mat (ang-fra*,hisz*,niem*,ros)",fiz-inf-mat,ang-fra-hisz-niem-ros,176.00,5,3.67
+Praga-Północ,LO,VIII LO im. Władysława IV,"1CD/2 [O] chem-fiz-mat (ang-fra*,hisz*,niem*,ros)",chem-fiz-mat,ang-fra-hisz-niem-ros,175.35,5,3.67
 Praga-Północ,LO,XX LO im. B. Chrobrego,1B [O] geogr-mat (ang-hisz),geogr-mat,ang-hisz,57.50,,
 Praga-Północ,LO,XX LO im. B. Chrobrego,1A [O] ang-pol (ang-fra),ang-pol,ang-fra,83.70,,
 Rembertów,LO,LI LO im. T. Kościuszki,1A [O] inf-ang-mat (ang-niem*),ang-inf-mat,ang-niem,110.45,,
 Rembertów,LO,LI LO im. T. Kościuszki,"1C [O] geogr-ang (ang*-niem,hisz)",ang-geogr,ang-hisz-niem,137.30,,
 Śródmieście,BS I st.,Branżowa Szkoła Gastronomiczna I stopnia,1A [O] Kucharz (ang),Kucharz,ang,44.75,,
 Śródmieście,BS I st.,Branżowa Szkoła Gastronomiczna I stopnia,1C [O] Cukiernik (ang),Cukiernik,ang,50.10,,
-Śródmieście,LO,CLVII LO im. M. Skłodowskiej-Curie,"1A [O] chem-ang-mat (ang-hisz,niem)",ang-chem-mat,ang-hisz-niem,168.70,,
-Śródmieście,LO,CLVII LO im. M. Skłodowskiej-Curie,"1B [O] geogr-ang-mat (ang-hisz,niem)",ang-geogr-mat,ang-hisz-niem,172.00,,
-Śródmieście,LO,CLVII LO im. M. Skłodowskiej-Curie,"1D [O] biol-chem-mat (ang-hisz,niem)",biol-chem-mat,ang-hisz-niem,170.05,,
-Śródmieście,LO,CLVII LO im. M. Skłodowskiej-Curie,"1C [O] fiz-inf-mat (ang-niem,hisz)",fiz-inf-mat,ang-hisz-niem,166.00,,
-Śródmieście,LO,II LO z Oddziałami Dwujęzycznymi im. S. Batorego,"1mf [D] fiz-mat (ang-niem,hisz,fra,wlo)",fiz-mat,ang-fra-hisz-niem-wlo,191.94,,
-Śródmieście,LO,II LO z Oddziałami Dwujęzycznymi im. S. Batorego,"1mh [D] hist-mat (ang-niem,hisz,fra,wlo)",hist-mat,ang-fra-hisz-niem-wlo,188.36,,
-Śródmieście,LO,II LO z Oddziałami Dwujęzycznymi im. S. Batorego,"1bchm [O] biol-chem-mat (ang-niem,hisz,fra,wlo)",biol-chem-mat,ang-fra-hisz-niem-wlo,175.75,,
-Śródmieście,LO,IX LO im. K. Hoffmanowej,1d_mat-fiz-chem [O] chem-fiz-mat (ang-hisz*),chem-fiz-mat,ang-hisz,176.30,,
-Śródmieście,LO,IX LO im. K. Hoffmanowej,1a_mat-biol-chem [O] biol-chem-mat (ang-hisz*),biol-chem-mat,ang-hisz,180.60,,
-Śródmieście,LO,IX LO im. K. Hoffmanowej,1b_mat-biol-chem [O] biol-chem-mat (ang-niem*),biol-chem-mat,ang-niem,179.60,,
-Śródmieście,LO,IX LO im. K. Hoffmanowej,1u_mat-fiz-ang [O] fiz-ang-mat (ang-hisz*),ang-fiz-mat,ang-hisz,176.15,,
-Śródmieście,LO,IX LO im. K. Hoffmanowej,1f_mat-geo-WOS [O] geogr-mat-wos (ang-hisz*),geogr-mat-wos,ang-hisz,175.20,,
+Śródmieście,LO,CLVII LO im. M. Skłodowskiej-Curie,"1A [O] chem-ang-mat (ang-hisz,niem)",ang-chem-mat,ang-hisz-niem,168.70,31,27.67
+Śródmieście,LO,CLVII LO im. M. Skłodowskiej-Curie,"1B [O] geogr-ang-mat (ang-hisz,niem)",ang-geogr-mat,ang-hisz-niem,172.00,31,27.67
+Śródmieście,LO,CLVII LO im. M. Skłodowskiej-Curie,"1D [O] biol-chem-mat (ang-hisz,niem)",biol-chem-mat,ang-hisz-niem,170.05,31,27.67
+Śródmieście,LO,CLVII LO im. M. Skłodowskiej-Curie,"1C [O] fiz-inf-mat (ang-niem,hisz)",fiz-inf-mat,ang-hisz-niem,166.00,31,27.67
+Śródmieście,LO,II LO z Oddziałami Dwujęzycznymi im. S. Batorego,"1mf [D] fiz-mat (ang-niem,hisz,fra,wlo)",fiz-mat,ang-fra-hisz-niem-wlo,191.94,7,5.33
+Śródmieście,LO,II LO z Oddziałami Dwujęzycznymi im. S. Batorego,"1mh [D] hist-mat (ang-niem,hisz,fra,wlo)",hist-mat,ang-fra-hisz-niem-wlo,188.36,7,5.33
+Śródmieście,LO,II LO z Oddziałami Dwujęzycznymi im. S. Batorego,"1bchm [O] biol-chem-mat (ang-niem,hisz,fra,wlo)",biol-chem-mat,ang-fra-hisz-niem-wlo,175.75,7,5.33
+Śródmieście,LO,IX LO im. K. Hoffmanowej,1d_mat-fiz-chem [O] chem-fiz-mat (ang-hisz*),chem-fiz-mat,ang-hisz,176.30,2,4.0
+Śródmieście,LO,IX LO im. K. Hoffmanowej,1a_mat-biol-chem [O] biol-chem-mat (ang-hisz*),biol-chem-mat,ang-hisz,180.60,2,4.0
+Śródmieście,LO,IX LO im. K. Hoffmanowej,1b_mat-biol-chem [O] biol-chem-mat (ang-niem*),biol-chem-mat,ang-niem,179.60,2,4.0
+Śródmieście,LO,IX LO im. K. Hoffmanowej,1u_mat-fiz-ang [O] fiz-ang-mat (ang-hisz*),ang-fiz-mat,ang-hisz,176.15,2,4.0
+Śródmieście,LO,IX LO im. K. Hoffmanowej,1f_mat-geo-WOS [O] geogr-mat-wos (ang-hisz*),geogr-mat-wos,ang-hisz,175.20,2,4.0
 Śródmieście,LO,LVIII LO im. K.K. Baczyńskiego,1AL [O] fiz-ang-mat (ang-niem*),ang-fiz-mat,ang-niem,27.25,,
 Śródmieście,LO,LVIII LO im. K.K. Baczyńskiego,1CL [O] geogr-mat-wos (ang-hisz*),geogr-mat-wos,ang-hisz,107.10,,
 Śródmieście,LO,LVIII LO im. K.K. Baczyńskiego,1EL [O] ang-pol-wło (ang-wlo),ang-pol-wło,ang-wlo,108.80,,
@@ -405,23 +405,23 @@ Andersa",1F-2-cheerleading [S] geogr-ang-pol (ang-niem*),ang-geogr-pol,ang-niem,
 Andersa",1F-3-sporty.różne [S] geogr-ang-pol (ang-niem*),ang-geogr-pol,ang-niem,336.00,,
 Śródmieście,LO,"LXII LO Mistrzostwa Sportowego im. Generała Broni W.
 Andersa","1-DE-p,nożna.męska [S] hist-ang-pol (ang-niem*)",ang-hist-pol,ang-niem,43.00,,
-Śródmieście,LO,LXVII LO im. J. Nowaka-Jeziorańskiego,"1B [O] fiz-mat (niem*,hisz*-ang)",fiz-mat,ang-hisz-niem,171.85,,
-Śródmieście,LO,LXVII LO im. J. Nowaka-Jeziorańskiego,"1D [O] hist-pol-mat (niem*,hisz*-ang)",hist-mat-pol,ang-hisz-niem,166.10,,
-Śródmieście,LO,LXVII LO im. J. Nowaka-Jeziorańskiego,"1A [O] biol-chem-mat (niem*,hisz*-ang)",biol-chem-mat,ang-hisz-niem,173.65,,
-Śródmieście,LO,LXVII LO im. J. Nowaka-Jeziorańskiego,"1C [O] geogr-mat (niem*,hisz*-ang)",geogr-mat,ang-hisz-niem,171.30,,
-Śródmieście,LO,LXXV LO im. J. III Sobieskiego,"1A_MEDIALNA [O] hist-obcy-pol (hisz*,fra*,niem*-ang)",hist-obcy-pol,ang-fra-hisz-niem,144.50,,
-Śródmieście,LO,LXXV LO im. J. III Sobieskiego,"1B_BIOL-CHEM [O] biol-chem (ang-fra,hisz,niem)",biol-chem,ang-fra-hisz-niem,147.65,,
-Śródmieście,LO,LXXV LO im. J. III Sobieskiego,"1C_FILMOWA [O] ang-pol (ang-fra,hisz,niem)",ang-pol,ang-fra-hisz-niem,154.40,,
-Śródmieście,LO,LXXV LO im. J. III Sobieskiego,"1E_MUZYCZNO-TEATR. [O] hist-pol (ang-fra,hisz,niem)",hist-pol,ang-fra-hisz-niem,123.40,,
-Śródmieście,LO,LXXV LO im. J. III Sobieskiego,"1D_DYPLOMATYCZNA [O] geogr-obcy-wos (hisz*,fra*,niem*-ang)",geogr-obcy-wos,ang-fra-hisz-niem,143.15,,
-Śródmieście,LO,LXXXI LO im. A. Fredry,"1B [O] geogr-ang-mat (ang-fra,hisz*,niem*,ros)",ang-geogr-mat,ang-fra-hisz-niem-ros,165.40,,
-Śródmieście,LO,LXXXI LO im. A. Fredry,"1A [O] hist-pol-wos (ang-fra,hisz*,niem*,ros)",hist-pol-wos,ang-fra-hisz-niem-ros,158.20,,
-Śródmieście,LO,LXXXI LO im. A. Fredry,"1C [O] fiz-ang-mat (ang-fra,hisz*,niem*,ros)",ang-fiz-mat,ang-fra-hisz-niem-ros,162.55,,
-Śródmieście,LO,LXXXI LO im. A. Fredry,"1D [O] biol-chem-mat (ang-fra,hisz*,niem*,ros)",biol-chem-mat,ang-fra-hisz-niem-ros,159.05,,
-Śródmieście,LO,LXXXIII LO im. E. Konopczyńskiego,1A [O] ang-mat (ang-niem*),ang-mat,ang-niem,147.40,,
-Śródmieście,LO,LXXXIII LO im. E. Konopczyńskiego,1D [O] biol-chem-mat (ang*-hisz),biol-chem-mat,ang-hisz,141.10,,
-Śródmieście,LO,LXXXIII LO im. E. Konopczyńskiego,1C [O] ang-hiszp-pol (ang-hisz*),ang-hiszp-pol,ang-hisz,144.65,,
-Śródmieście,LO,LXXXIII LO im. E. Konopczyńskiego,1B [O] geogr-ang-mat (ang*-niem*),ang-geogr-mat,ang-niem,148.65,,
+Śródmieście,LO,LXVII LO im. J. Nowaka-Jeziorańskiego,"1B [O] fiz-mat (niem*,hisz*-ang)",fiz-mat,ang-hisz-niem,171.85,17,8.0
+Śródmieście,LO,LXVII LO im. J. Nowaka-Jeziorańskiego,"1D [O] hist-pol-mat (niem*,hisz*-ang)",hist-mat-pol,ang-hisz-niem,166.10,17,8.0
+Śródmieście,LO,LXVII LO im. J. Nowaka-Jeziorańskiego,"1A [O] biol-chem-mat (niem*,hisz*-ang)",biol-chem-mat,ang-hisz-niem,173.65,17,8.0
+Śródmieście,LO,LXVII LO im. J. Nowaka-Jeziorańskiego,"1C [O] geogr-mat (niem*,hisz*-ang)",geogr-mat,ang-hisz-niem,171.30,17,8.0
+Śródmieście,LO,LXXV LO im. J. III Sobieskiego,"1A_MEDIALNA [O] hist-obcy-pol (hisz*,fra*,niem*-ang)",hist-obcy-pol,ang-fra-hisz-niem,144.50,68,75.0
+Śródmieście,LO,LXXV LO im. J. III Sobieskiego,"1B_BIOL-CHEM [O] biol-chem (ang-fra,hisz,niem)",biol-chem,ang-fra-hisz-niem,147.65,68,75.0
+Śródmieście,LO,LXXV LO im. J. III Sobieskiego,"1C_FILMOWA [O] ang-pol (ang-fra,hisz,niem)",ang-pol,ang-fra-hisz-niem,154.40,68,75.0
+Śródmieście,LO,LXXV LO im. J. III Sobieskiego,"1E_MUZYCZNO-TEATR. [O] hist-pol (ang-fra,hisz,niem)",hist-pol,ang-fra-hisz-niem,123.40,68,75.0
+Śródmieście,LO,LXXV LO im. J. III Sobieskiego,"1D_DYPLOMATYCZNA [O] geogr-obcy-wos (hisz*,fra*,niem*-ang)",geogr-obcy-wos,ang-fra-hisz-niem,143.15,68,75.0
+Śródmieście,LO,LXXXI LO im. A. Fredry,"1B [O] geogr-ang-mat (ang-fra,hisz*,niem*,ros)",ang-geogr-mat,ang-fra-hisz-niem-ros,165.40,33,30.0
+Śródmieście,LO,LXXXI LO im. A. Fredry,"1A [O] hist-pol-wos (ang-fra,hisz*,niem*,ros)",hist-pol-wos,ang-fra-hisz-niem-ros,158.20,33,30.0
+Śródmieście,LO,LXXXI LO im. A. Fredry,"1C [O] fiz-ang-mat (ang-fra,hisz*,niem*,ros)",ang-fiz-mat,ang-fra-hisz-niem-ros,162.55,33,30.0
+Śródmieście,LO,LXXXI LO im. A. Fredry,"1D [O] biol-chem-mat (ang-fra,hisz*,niem*,ros)",biol-chem-mat,ang-fra-hisz-niem-ros,159.05,33,30.0
+Śródmieście,LO,LXXXIII LO im. E. Konopczyńskiego,1A [O] ang-mat (ang-niem*),ang-mat,ang-niem,147.40,53,73.33
+Śródmieście,LO,LXXXIII LO im. E. Konopczyńskiego,1D [O] biol-chem-mat (ang*-hisz),biol-chem-mat,ang-hisz,141.10,53,73.33
+Śródmieście,LO,LXXXIII LO im. E. Konopczyńskiego,1C [O] ang-hiszp-pol (ang-hisz*),ang-hiszp-pol,ang-hisz,144.65,53,73.33
+Śródmieście,LO,LXXXIII LO im. E. Konopczyńskiego,1B [O] geogr-ang-mat (ang*-niem*),ang-geogr-mat,ang-niem,148.65,53,73.33
 Śródmieście,T,Technikum Architektoniczno-Budowlane im. S. Noakowskiego,1b [O] Technik budownictwa (ang-niem*),Technik budownictwa,ang-niem,132.60,,
 Śródmieście,T,Technikum Architektoniczno-Budowlane im. S. Noakowskiego,1a [O] Technik inżynierii sanitarnej (ang-niem*),Technik inżynierii sanitarnej,ang-niem,75.90,,
 Śródmieście,T,Technikum Architektoniczno-Budowlane im. S. Noakowskiego,1c [O] Technik budownictwa (ang-niem*),Technik budownictwa,ang-niem,121.00,,
@@ -451,40 +451,40 @@ Kieślowskiego","1B [O] Technik programista (ang-niem,hisz)",Technik programista
 Śródmieście,T,Technikum Poligraficzne,1tc_ang/mat [O] Technik grafiki i poligrafii cyfrowej (ang-niem),Technik grafiki i poligrafii cyfrowej,ang-niem,31.15,,
 Śródmieście,T,Technikum Poligraficzne,1tr_ang/geo [O] Technik reklamy (ang-niem),Technik reklamy,ang-niem,78.75,,
 Śródmieście,T,Technikum Poligraficzne,1tci_ang/geo_ogólno [I-o] Technik grafiki i poligrafii cyfrowej (ang-wlo),Technik grafiki i poligrafii cyfrowej,ang-wlo,100.40,,
-Śródmieście,LO,V LO im. Księcia J. Poniatowskiego,"1A [O] hist-pol-wos (ang-fra,hisz)",hist-pol-wos,ang-fra-hisz,170.50,,
-Śródmieście,LO,V LO im. Księcia J. Poniatowskiego,"1B [O] fiz-mat (ang-fra,niem)",fiz-mat,ang-fra-niem,176.85,,
-Śródmieście,LO,V LO im. Księcia J. Poniatowskiego,"1D [O] biol-chem (ang-fra,niem)",biol-chem,ang-fra-niem,176.40,,
-Śródmieście,LO,V LO im. Księcia J. Poniatowskiego,"1E [O] geogr-mat (ang-fra,niem)",geogr-mat,ang-fra-niem,175.45,,
-Śródmieście,LO,XI LO im. M. Reja,"1D [O] biol-chem-mat (ang-hisz,niem)",biol-chem-mat,ang-hisz-niem,167.35,,
-Śródmieście,LO,XI LO im. M. Reja,"1A [O] fiz-ang-mat (ang-hisz,niem)",ang-fiz-mat,ang-hisz-niem,167.30,,
-Śródmieście,LO,XI LO im. M. Reja,"1C [O] hist-ang-wos (ang-niem,fra)",ang-hist-wos,ang-fra-niem,163.50,,
-Śródmieście,LO,XI LO im. M. Reja,1E [O] geogr-ang-mat (ang-niem),ang-geogr-mat,ang-niem,167.05,,
-Śródmieście,LO,XV LO z Oddziałami Dwujęzycznymi im. N. Żmichowskiej,1A [O] hist-pol (ang-fra),hist-pol,ang-fra,152.80,,
-Śródmieście,LO,XV LO z Oddziałami Dwujęzycznymi im. N. Żmichowskiej,1DL [D] hist-pol (fra-ang),hist-pol,ang-fra,146.13,,
-Śródmieście,LO,XV LO z Oddziałami Dwujęzycznymi im. N. Żmichowskiej,1B [O] biol-chem-mat (ang-fra),biol-chem-mat,ang-fra,160.50,,
-Śródmieście,LO,XV LO z Oddziałami Dwujęzycznymi im. N. Żmichowskiej,1DS [D] biol-chem (fra-ang),biol-chem,ang-fra,126.49,,
-Śródmieście,LO,XV LO z Oddziałami Dwujęzycznymi im. N. Żmichowskiej,0W [DW] franc (fra-ang),franc,ang-fra,158.36,,
+Śródmieście,LO,V LO im. Księcia J. Poniatowskiego,"1A [O] hist-pol-wos (ang-fra,hisz)",hist-pol-wos,ang-fra-hisz,170.50,10,6.67
+Śródmieście,LO,V LO im. Księcia J. Poniatowskiego,"1B [O] fiz-mat (ang-fra,niem)",fiz-mat,ang-fra-niem,176.85,10,6.67
+Śródmieście,LO,V LO im. Księcia J. Poniatowskiego,"1D [O] biol-chem (ang-fra,niem)",biol-chem,ang-fra-niem,176.40,10,6.67
+Śródmieście,LO,V LO im. Księcia J. Poniatowskiego,"1E [O] geogr-mat (ang-fra,niem)",geogr-mat,ang-fra-niem,175.45,10,6.67
+Śródmieście,LO,XI LO im. M. Reja,"1D [O] biol-chem-mat (ang-hisz,niem)",biol-chem-mat,ang-hisz-niem,167.35,19,23.0
+Śródmieście,LO,XI LO im. M. Reja,"1A [O] fiz-ang-mat (ang-hisz,niem)",ang-fiz-mat,ang-hisz-niem,167.30,19,23.0
+Śródmieście,LO,XI LO im. M. Reja,"1C [O] hist-ang-wos (ang-niem,fra)",ang-hist-wos,ang-fra-niem,163.50,19,23.0
+Śródmieście,LO,XI LO im. M. Reja,1E [O] geogr-ang-mat (ang-niem),ang-geogr-mat,ang-niem,167.05,19,23.0
+Śródmieście,LO,XV LO z Oddziałami Dwujęzycznymi im. N. Żmichowskiej,1A [O] hist-pol (ang-fra),hist-pol,ang-fra,152.80,18,28.0
+Śródmieście,LO,XV LO z Oddziałami Dwujęzycznymi im. N. Żmichowskiej,1DL [D] hist-pol (fra-ang),hist-pol,ang-fra,146.13,18,28.0
+Śródmieście,LO,XV LO z Oddziałami Dwujęzycznymi im. N. Żmichowskiej,1B [O] biol-chem-mat (ang-fra),biol-chem-mat,ang-fra,160.50,18,28.0
+Śródmieście,LO,XV LO z Oddziałami Dwujęzycznymi im. N. Żmichowskiej,1DS [D] biol-chem (fra-ang),biol-chem,ang-fra,126.49,18,28.0
+Śródmieście,LO,XV LO z Oddziałami Dwujęzycznymi im. N. Żmichowskiej,0W [DW] franc (fra-ang),franc,ang-fra,158.36,18,28.0
 Śródmieście,LO,"XVII LO z Oddziałami Dwujęzycznymi im. A. Frycza
-Modrzewskiego",1a [O] geogr-ang-mat (ang-niem*),ang-geogr-mat,ang-niem,167.65,,
+Modrzewskiego",1a [O] geogr-ang-mat (ang-niem*),ang-geogr-mat,ang-niem,167.65,14,12.67
 Śródmieście,LO,"XVII LO z Oddziałami Dwujęzycznymi im. A. Frycza
-Modrzewskiego",1b [O] biol-chem-mat (ang-niem*),biol-chem-mat,ang-niem,167.50,,
+Modrzewskiego",1b [O] biol-chem-mat (ang-niem*),biol-chem-mat,ang-niem,167.50,14,12.67
 Śródmieście,LO,"XVII LO z Oddziałami Dwujęzycznymi im. A. Frycza
-Modrzewskiego",1c [O] hist-ang-pol (ang-niem*),ang-hist-pol,ang-niem,141.20,,
+Modrzewskiego",1c [O] hist-ang-pol (ang-niem*),ang-hist-pol,ang-niem,141.20,14,12.67
 Śródmieście,LO,"XVII LO z Oddziałami Dwujęzycznymi im. A. Frycza
-Modrzewskiego",0W [DW] (niem-ang),brak rozszerzeń,ang-niem,139.35,,
-Śródmieście,LO,XVIII LO im. J. Zamoyskiego,"1A [O] fiz-inf-mat (ang-niem*,fra,hisz)",fiz-inf-mat,ang-fra-hisz-niem,172.25,,
-Śródmieście,LO,XVIII LO im. J. Zamoyskiego,"1G [O] geogr-ang-mat (ang-niem,fra)",ang-geogr-mat,ang-fra-niem,169.55,,
-Śródmieście,LO,XVIII LO im. J. Zamoyskiego,"1CD [O] biol-chem-mat (ang-niem,fra*,hisz)",biol-chem-mat,ang-fra-hisz-niem,172.70,,
-Śródmieście,LO,XVIII LO im. J. Zamoyskiego,"1B [O] fiz-ang-mat (ang-niem*,fra,hisz)",ang-fiz-mat,ang-fra-hisz-niem,173.35,,
-Śródmieście,LO,XXVII LO im. T. Czackiego,"1H [O] pol-wos (niem*,hisz*,fra-ang)",pol-wos,ang-fra-hisz-niem,174.95,,
-Śródmieście,LO,XXVII LO im. T. Czackiego,"1M [O] fiz-inf-mat (fra,hisz*,niem*-ang)",fiz-inf-mat,ang-fra-hisz-niem,182.55,,
-Śródmieście,LO,XXVII LO im. T. Czackiego,"1P [O] biol-chem-mat (fra,hisz*,niem*-ang)",biol-chem-mat,ang-fra-hisz-niem,178.15,,
+Modrzewskiego",0W [DW] (niem-ang),brak rozszerzeń,ang-niem,139.35,14,12.67
+Śródmieście,LO,XVIII LO im. J. Zamoyskiego,"1A [O] fiz-inf-mat (ang-niem*,fra,hisz)",fiz-inf-mat,ang-fra-hisz-niem,172.25,9,8.33
+Śródmieście,LO,XVIII LO im. J. Zamoyskiego,"1G [O] geogr-ang-mat (ang-niem,fra)",ang-geogr-mat,ang-fra-niem,169.55,9,8.33
+Śródmieście,LO,XVIII LO im. J. Zamoyskiego,"1CD [O] biol-chem-mat (ang-niem,fra*,hisz)",biol-chem-mat,ang-fra-hisz-niem,172.70,9,8.33
+Śródmieście,LO,XVIII LO im. J. Zamoyskiego,"1B [O] fiz-ang-mat (ang-niem*,fra,hisz)",ang-fiz-mat,ang-fra-hisz-niem,173.35,9,8.33
+Śródmieście,LO,XXVII LO im. T. Czackiego,"1H [O] pol-wos (niem*,hisz*,fra-ang)",pol-wos,ang-fra-hisz-niem,174.95,3,3.0
+Śródmieście,LO,XXVII LO im. T. Czackiego,"1M [O] fiz-inf-mat (fra,hisz*,niem*-ang)",fiz-inf-mat,ang-fra-hisz-niem,182.55,3,3.0
+Śródmieście,LO,XXVII LO im. T. Czackiego,"1P [O] biol-chem-mat (fra,hisz*,niem*-ang)",biol-chem-mat,ang-fra-hisz-niem,178.15,3,3.0
 Śródmieście,LO,XXXII LO im. S. Grota-Roweckiego,1A [O] hist-ang (ang-niem),ang-hist,ang-niem,90.35,,
-Śródmieście,LO,XXXVII LO im. J. Dąbrowskiego,1b [O] ang-pol-wło (ang-wlo),ang-pol-wło,ang-wlo,165.75,,
-Śródmieście,LO,XXXVII LO im. J. Dąbrowskiego,"1d [O] biol-chem-mat (ang-niem,wlo)",biol-chem-mat,ang-niem-wlo,169.55,,
-Śródmieście,LO,XXXVII LO im. J. Dąbrowskiego,"1c [O] fiz-mat (ang-niem,wlo)",fiz-mat,ang-niem-wlo,166.10,,
-Śródmieście,LO,XXXVII LO im. J. Dąbrowskiego,"1a [O] hist-pol-wos (ang-niem,wlo)",hist-pol-wos,ang-niem-wlo,157.40,,
-Śródmieście,LO,XXXVII LO im. J. Dąbrowskiego,"1e [O] geogr-mat (ang-niem,wlo)",geogr-mat,ang-niem-wlo,168.80,,
+Śródmieście,LO,XXXVII LO im. J. Dąbrowskiego,1b [O] ang-pol-wło (ang-wlo),ang-pol-wło,ang-wlo,165.75,29,21.67
+Śródmieście,LO,XXXVII LO im. J. Dąbrowskiego,"1d [O] biol-chem-mat (ang-niem,wlo)",biol-chem-mat,ang-niem-wlo,169.55,29,21.67
+Śródmieście,LO,XXXVII LO im. J. Dąbrowskiego,"1c [O] fiz-mat (ang-niem,wlo)",fiz-mat,ang-niem-wlo,166.10,29,21.67
+Śródmieście,LO,XXXVII LO im. J. Dąbrowskiego,"1a [O] hist-pol-wos (ang-niem,wlo)",hist-pol-wos,ang-niem-wlo,157.40,29,21.67
+Śródmieście,LO,XXXVII LO im. J. Dąbrowskiego,"1e [O] geogr-mat (ang-niem,wlo)",geogr-mat,ang-niem-wlo,168.80,29,21.67
 Targówek,BS I st.,Branżowa Szkoła I stopnia nr 41,1M [O] Monter zabudowy i robót wykończeniowych w budownictwie (ang),Monter zabudowy i robót wykończeniowych w budownictwie,ang,21.25,,
 Targówek,BS I st.,Branżowa Szkoła I stopnia nr 41,1F [O] Fryzjer (ang),Fryzjer,ang,28.60,,
 Targówek,BS I st.,Branżowa Szkoła I stopnia nr 41,1A [O] wielozawodowa (ang),wielozawodowa,ang,21.35,,
@@ -501,10 +501,10 @@ Targówek,LO,CLXII LO im. Szarych Szeregów,1AN [O] ang-pol-mat (ang-niem),ang-m
 Targówek,LO,CLXII LO im. Szarych Szeregów,1SSN [S] biol-geogr-ang (ang-niem),ang-biol-geogr,ang-niem,31.00,,
 Targówek,LO,CLXII LO im. Szarych Szeregów,"1CN [O] geogr-ang-hiszp-niem (ang-niem,hisz)",ang-geogr-hiszp-niem,ang-hisz-niem,78.35,,
 Targówek,LO,CLXII LO im. Szarych Szeregów,1SSH [S] biol-geogr-ang (ang-hisz),ang-biol-geogr,ang-hisz,39.00,,
-Targówek,LO,CXXXVII LO z Oddziałami Dwujęzycznymi im. R. Schumana,"1A [D] geogr-mat (ang-niem*,hisz*,fra*)",geogr-mat,ang-fra-hisz-niem,150.94,,
-Targówek,LO,CXXXVII LO z Oddziałami Dwujęzycznymi im. R. Schumana,1D/I [O] geogr-niem-pol (niem-ang),geogr-niem-pol,ang-niem,127.00,,
-Targówek,LO,CXXXVII LO z Oddziałami Dwujęzycznymi im. R. Schumana,"1B [D] biol-chem (ang-niem*,hisz*,fra*)",biol-chem,ang-fra-hisz-niem,165.69,,
-Targówek,LO,CXXXVII LO z Oddziałami Dwujęzycznymi im. R. Schumana,1D/II [O] geogr-ang-pol (ang-niem),ang-geogr-pol,ang-niem,156.00,,
+Targówek,LO,CXXXVII LO z Oddziałami Dwujęzycznymi im. R. Schumana,"1A [D] geogr-mat (ang-niem*,hisz*,fra*)",geogr-mat,ang-fra-hisz-niem,150.94,72,56.33
+Targówek,LO,CXXXVII LO z Oddziałami Dwujęzycznymi im. R. Schumana,1D/I [O] geogr-niem-pol (niem-ang),geogr-niem-pol,ang-niem,127.00,72,56.33
+Targówek,LO,CXXXVII LO z Oddziałami Dwujęzycznymi im. R. Schumana,"1B [D] biol-chem (ang-niem*,hisz*,fra*)",biol-chem,ang-fra-hisz-niem,165.69,72,56.33
+Targówek,LO,CXXXVII LO z Oddziałami Dwujęzycznymi im. R. Schumana,1D/II [O] geogr-ang-pol (ang-niem),ang-geogr-pol,ang-niem,156.00,72,56.33
 Targówek,T,Technikum nr 11 im. P. Wysockiego,"1L [O] Technik logistyk (ang-niem,fra)",Technik logistyk,ang-fra-niem,72.30,,
 Targówek,T,Technikum nr 11 im. P. Wysockiego,"1F [O] Technik lotniskowych służb operacyjnych (ang-ros,niem)",Technik lotniskowych służb operacyjnych,ang-niem-ros,87.25,,
 Targówek,T,Technikum nr 11 im. P. Wysockiego,"1E [O] Technik grafiki i poligrafii cyfrowej (ang-niem,fra)",Technik grafiki i poligrafii cyfrowej,ang-fra-niem,89.45,,
@@ -515,10 +515,10 @@ Targówek,T,Technikum nr 11 im. P. Wysockiego,"1AB[tur] [I-o] Technik organizacj
 Targówek,T,Technikum nr 30,1TF [O] Technik usług fryzjerskich (ang-hisz),Technik usług fryzjerskich,ang-hisz,46.95,,
 Targówek,T,Technikum nr 30,1TD [O] Technik technologii drewna (ang-niem),Technik technologii drewna,ang-niem,31.95,,
 Targówek,T,Technikum nr 30,1TW [O] Technik aranżacji wnętrz (ang-hisz),Technik aranżacji wnętrz,ang-hisz,89.95,,
-Targówek,LO,XIII LO z Oddziałami Dwujęzycznymi im. płk. L. Lisa-Kuli,"1B [O] geogr-ang-mat (ang-fra,niem)",ang-geogr-mat,ang-fra-niem,161.65,,
-Targówek,LO,XIII LO z Oddziałami Dwujęzycznymi im. płk. L. Lisa-Kuli,"1A [O] hist-ang-pol (ang-hisz,fra)",ang-hist-pol,ang-fra-hisz,153.50,,
-Targówek,LO,XIII LO z Oddziałami Dwujęzycznymi im. płk. L. Lisa-Kuli,"1C [O] biol-chem-ang (ang-hisz,niem)",ang-biol-chem,ang-hisz-niem,160.15,,
-Targówek,LO,XIII LO z Oddziałami Dwujęzycznymi im. płk. L. Lisa-Kuli,"1D [O] inf-ang-mat (ang-hisz,niem)",ang-inf-mat,ang-hisz-niem,162.35,,
+Targówek,LO,XIII LO z Oddziałami Dwujęzycznymi im. płk. L. Lisa-Kuli,"1B [O] geogr-ang-mat (ang-fra,niem)",ang-geogr-mat,ang-fra-niem,161.65,70,81.67
+Targówek,LO,XIII LO z Oddziałami Dwujęzycznymi im. płk. L. Lisa-Kuli,"1A [O] hist-ang-pol (ang-hisz,fra)",ang-hist-pol,ang-fra-hisz,153.50,70,81.67
+Targówek,LO,XIII LO z Oddziałami Dwujęzycznymi im. płk. L. Lisa-Kuli,"1C [O] biol-chem-ang (ang-hisz,niem)",ang-biol-chem,ang-hisz-niem,160.15,70,81.67
+Targówek,LO,XIII LO z Oddziałami Dwujęzycznymi im. płk. L. Lisa-Kuli,"1D [O] inf-ang-mat (ang-hisz,niem)",ang-inf-mat,ang-hisz-niem,162.35,70,81.67
 Targówek,LO,XLVI LO z Oddziałami Dwujęzycznymi im. S. Czarnieckiego,0AN [DW] geogr-ang-niem (niem*-ang),ang-geogr-niem,ang-niem,70.40,,
 Targówek,LO,XLVI LO z Oddziałami Dwujęzycznymi im. S. Czarnieckiego,0AH [DW] geogr-ang-hiszp (hisz*-ang),ang-geogr-hiszp,ang-hisz,157.40,,
 Targówek,LO,XLVI LO z Oddziałami Dwujęzycznymi im. S. Czarnieckiego,1AH [D] geogr-ang-hiszp (hisz-ang),ang-geogr-hiszp,ang-hisz,161.80,,
@@ -545,71 +545,71 @@ Ursus,T,Technikum nr 8 im. J. Karskiego,1AL [O] Technik logistyk (ang-ros*),Tech
 Ursus,T,Technikum nr 8 im. J. Karskiego,1AO+1BO [O] Technik organizacji turystyki (ang-niem*),Technik organizacji turystyki,ang-niem,42.90,,
 Ursus,T,Technikum nr 8 im. J. Karskiego,1AI+1BI [O] Technik informatyk (ang-niem*),Technik informatyk,ang-niem,40.40,,
 Ursynów,LO,"CLVIII LO z Oddziałami Dwujęzycznymi im. Księżnej I.
-Czartoryskiej",1af_DWA [D] hist-h.szt.-pol (ang-fra),h.szt.-hist-pol,ang-fra,140.28,,
+Czartoryskiej",1af_DWA [D] hist-h.szt.-pol (ang-fra),h.szt.-hist-pol,ang-fra,140.28,81,87.67
 Ursynów,LO,"CLVIII LO z Oddziałami Dwujęzycznymi im. Księżnej I.
-Czartoryskiej",1ah_DWA [D] hist-h.szt.-pol (ang-hisz),h.szt.-hist-pol,ang-hisz,152.75,,
+Czartoryskiej",1ah_DWA [D] hist-h.szt.-pol (ang-hisz),h.szt.-hist-pol,ang-hisz,152.75,81,87.67
 Ursynów,LO,"CLVIII LO z Oddziałami Dwujęzycznymi im. Księżnej I.
-Czartoryskiej",1e_n [O] biol-chem-ang (ang-niem),ang-biol-chem,ang-niem,159.60,,
+Czartoryskiej",1e_n [O] biol-chem-ang (ang-niem),ang-biol-chem,ang-niem,159.60,81,87.67
 Ursynów,LO,"CLVIII LO z Oddziałami Dwujęzycznymi im. Księżnej I.
-Czartoryskiej",0_h [DW] geogr-ang-wos (hisz-ang),ang-geogr-wos,ang-hisz,180.30,,
+Czartoryskiej",0_h [DW] geogr-ang-wos (hisz-ang),ang-geogr-wos,ang-hisz,180.30,81,87.67
 Ursynów,LO,"CLVIII LO z Oddziałami Dwujęzycznymi im. Księżnej I.
-Czartoryskiej",1e_h [O] biol-chem-ang (ang-hisz),ang-biol-chem,ang-hisz,163.80,,
+Czartoryskiej",1e_h [O] biol-chem-ang (ang-hisz),ang-biol-chem,ang-hisz,163.80,81,87.67
 Ursynów,LO,"CLVIII LO z Oddziałami Dwujęzycznymi im. Księżnej I.
-Czartoryskiej",1b_DWH [D] geogr-ang-wos (hisz-ang),ang-geogr-wos,ang-hisz,84.61,,
+Czartoryskiej",1b_DWH [D] geogr-ang-wos (hisz-ang),ang-geogr-wos,ang-hisz,84.61,81,87.67
 Ursynów,LO,"CLVIII LO z Oddziałami Dwujęzycznymi im. Księżnej I.
-Czartoryskiej",1d_h [O] geogr-ang-mat (ang-hisz),ang-geogr-mat,ang-hisz,165.25,,
+Czartoryskiej",1d_h [O] geogr-ang-mat (ang-hisz),ang-geogr-mat,ang-hisz,165.25,81,87.67
 Ursynów,LO,"CLVIII LO z Oddziałami Dwujęzycznymi im. Księżnej I.
-Czartoryskiej",1d_n [O] geogr-ang-mat (ang-niem),ang-geogr-mat,ang-niem,158.25,,
+Czartoryskiej",1d_n [O] geogr-ang-mat (ang-niem),ang-geogr-mat,ang-niem,158.25,81,87.67
 Ursynów,LO,CLXVI LO z Oddziałami Sportowymi,1LA2 [O] biol-ang (ang-niem),ang-biol,ang-niem,88.70,,
 Ursynów,LO,CLXVI LO z Oddziałami Sportowymi,1LA1 [O] biol-ang (ang-hisz),ang-biol,ang-hisz,112.10,,
-Ursynów,LO,LXIII LO im. L. Kossutha,1Bn [O] biol-chem-ang (ang-niem*),ang-biol-chem,ang-niem,141.15,,
-Ursynów,LO,LXIII LO im. L. Kossutha,1Cn [O] hist-ang-wos (ang-niem*),ang-hist-wos,ang-niem,130.75,,
-Ursynów,LO,LXIII LO im. L. Kossutha,1Bh [O] biol-chem-ang (ang-hisz*),ang-biol-chem,ang-hisz,150.65,,
-Ursynów,LO,LXIII LO im. L. Kossutha,1Ch [O] hist-ang-wos (ang-hisz*),ang-hist-wos,ang-hisz,139.30,,
-Ursynów,LO,LXIII LO im. L. Kossutha,"1Di [O] inf-ang-mat (ang-niem*,hisz*)",ang-inf-mat,ang-hisz-niem,145.45,,
-Ursynów,LO,LXIII LO im. L. Kossutha,"1Df [O] fiz-ang-mat (ang-niem*,hisz*)",ang-fiz-mat,ang-hisz-niem,138.35,,
-Ursynów,LO,LXIII LO im. L. Kossutha,"1Eo [I-o] geogr-ang-mat (ang-niem*,hisz*)",ang-geogr-mat,ang-hisz-niem,146.55,,
-Ursynów,LO,LXX LO im. A. Kamińskiego,1A1 [O] hist-pol-wos (ang-wlo),hist-pol-wos,ang-wlo,156.80,,
-Ursynów,LO,LXX LO im. A. Kamińskiego,1A2 [O] hist-pol-wos (ang-fra),hist-pol-wos,ang-fra,153.50,,
-Ursynów,LO,LXX LO im. A. Kamińskiego,1D2 [O] biol-chem-mat (ang-hisz),biol-chem-mat,ang-hisz,167.00,,
-Ursynów,LO,LXX LO im. A. Kamińskiego,1D1 [O] biol-chem-mat (ang-niem),biol-chem-mat,ang-niem,163.80,,
-Ursynów,LO,LXX LO im. A. Kamińskiego,1B1 [O] fiz-ang-mat (ang-niem),ang-fiz-mat,ang-niem,167.60,,
-Ursynów,LO,LXX LO im. A. Kamińskiego,1C2 [O] geogr-ang-mat (ang-fra),ang-geogr-mat,ang-fra,170.00,,
-Ursynów,LO,LXX LO im. A. Kamińskiego,1C1 [O] geogr-ang-mat (ang-niem),ang-geogr-mat,ang-niem,170.10,,
-Ursynów,LO,LXX LO im. A. Kamińskiego,1B2 [O] fiz-inf-mat (ang-niem),fiz-inf-mat,ang-niem,169.95,,
-Wawer,LO,XXV LO im. J. Wybickiego,"1a_m [O] geogr-ang-mat (ang-hisz,niem,ros)",ang-geogr-mat,ang-hisz-niem-ros,157.35,,
-Wawer,LO,XXV LO im. J. Wybickiego,"1b_c [O] biol-chem-ang (ang-hisz,niem,ros)",ang-biol-chem,ang-hisz-niem-ros,157.85,,
-Wawer,LO,XXV LO im. J. Wybickiego,"1a_w [O] geogr-ang-wos (ang-hisz,niem,ros)",ang-geogr-wos,ang-hisz-niem-ros,150.70,,
-Wawer,LO,XXV LO im. J. Wybickiego,"1c_s [O] h.szt.-ang-pol (ang-hisz,niem,ros)",ang-h.szt.-pol,ang-hisz-niem-ros,132.85,,
-Wawer,LO,XXV LO im. J. Wybickiego,"1c_h [O] hist-ang-pol (ang-hisz,niem,ros)",ang-hist-pol,ang-hisz-niem-ros,140.70,,
-Wawer,LO,XXV LO im. J. Wybickiego,"1b_m [O] biol-ang-mat (ang-hisz,niem,ros)",ang-biol-mat,ang-hisz-niem-ros,139.40,,
+Ursynów,LO,LXIII LO im. L. Kossutha,1Bn [O] biol-chem-ang (ang-niem*),ang-biol-chem,ang-niem,141.15,88,89.67
+Ursynów,LO,LXIII LO im. L. Kossutha,1Cn [O] hist-ang-wos (ang-niem*),ang-hist-wos,ang-niem,130.75,88,89.67
+Ursynów,LO,LXIII LO im. L. Kossutha,1Bh [O] biol-chem-ang (ang-hisz*),ang-biol-chem,ang-hisz,150.65,88,89.67
+Ursynów,LO,LXIII LO im. L. Kossutha,1Ch [O] hist-ang-wos (ang-hisz*),ang-hist-wos,ang-hisz,139.30,88,89.67
+Ursynów,LO,LXIII LO im. L. Kossutha,"1Di [O] inf-ang-mat (ang-niem*,hisz*)",ang-inf-mat,ang-hisz-niem,145.45,88,89.67
+Ursynów,LO,LXIII LO im. L. Kossutha,"1Df [O] fiz-ang-mat (ang-niem*,hisz*)",ang-fiz-mat,ang-hisz-niem,138.35,88,89.67
+Ursynów,LO,LXIII LO im. L. Kossutha,"1Eo [I-o] geogr-ang-mat (ang-niem*,hisz*)",ang-geogr-mat,ang-hisz-niem,146.55,88,89.67
+Ursynów,LO,LXX LO im. A. Kamińskiego,1A1 [O] hist-pol-wos (ang-wlo),hist-pol-wos,ang-wlo,156.80,38,34.67
+Ursynów,LO,LXX LO im. A. Kamińskiego,1A2 [O] hist-pol-wos (ang-fra),hist-pol-wos,ang-fra,153.50,38,34.67
+Ursynów,LO,LXX LO im. A. Kamińskiego,1D2 [O] biol-chem-mat (ang-hisz),biol-chem-mat,ang-hisz,167.00,38,34.67
+Ursynów,LO,LXX LO im. A. Kamińskiego,1D1 [O] biol-chem-mat (ang-niem),biol-chem-mat,ang-niem,163.80,38,34.67
+Ursynów,LO,LXX LO im. A. Kamińskiego,1B1 [O] fiz-ang-mat (ang-niem),ang-fiz-mat,ang-niem,167.60,38,34.67
+Ursynów,LO,LXX LO im. A. Kamińskiego,1C2 [O] geogr-ang-mat (ang-fra),ang-geogr-mat,ang-fra,170.00,38,34.67
+Ursynów,LO,LXX LO im. A. Kamińskiego,1C1 [O] geogr-ang-mat (ang-niem),ang-geogr-mat,ang-niem,170.10,38,34.67
+Ursynów,LO,LXX LO im. A. Kamińskiego,1B2 [O] fiz-inf-mat (ang-niem),fiz-inf-mat,ang-niem,169.95,38,34.67
+Wawer,LO,XXV LO im. J. Wybickiego,"1a_m [O] geogr-ang-mat (ang-hisz,niem,ros)",ang-geogr-mat,ang-hisz-niem-ros,157.35,85,99.0
+Wawer,LO,XXV LO im. J. Wybickiego,"1b_c [O] biol-chem-ang (ang-hisz,niem,ros)",ang-biol-chem,ang-hisz-niem-ros,157.85,85,99.0
+Wawer,LO,XXV LO im. J. Wybickiego,"1a_w [O] geogr-ang-wos (ang-hisz,niem,ros)",ang-geogr-wos,ang-hisz-niem-ros,150.70,85,99.0
+Wawer,LO,XXV LO im. J. Wybickiego,"1c_s [O] h.szt.-ang-pol (ang-hisz,niem,ros)",ang-h.szt.-pol,ang-hisz-niem-ros,132.85,85,99.0
+Wawer,LO,XXV LO im. J. Wybickiego,"1c_h [O] hist-ang-pol (ang-hisz,niem,ros)",ang-hist-pol,ang-hisz-niem-ros,140.70,85,99.0
+Wawer,LO,XXV LO im. J. Wybickiego,"1b_m [O] biol-ang-mat (ang-hisz,niem,ros)",ang-biol-mat,ang-hisz-niem-ros,139.40,85,99.0
 Wawer,LO,XXVI LO im. J. Tuwima,"1A [O] geogr-ang-wos (ang-niem,hisz)",ang-geogr-wos,ang-hisz-niem,122.35,,
 Wawer,LO,XXVI LO im. J. Tuwima,"1B(o) [I-o] hist-ang-pol (ang-hisz,niem)",ang-hist-pol,ang-hisz-niem,105.30,,
-Wesoła,LO,CLXIII LO im. Cz. Niemena,"1Ble [O] geogr-hiszp-niem-mat (ang-niem,hisz)",geogr-hiszp-mat-niem,ang-hisz-niem,158.95,,
-Wesoła,LO,CLXIII LO im. Cz. Niemena,"1Cbc [O] biol-chem-ang (ang-niem*,hisz*,fra)",ang-biol-chem,ang-fra-hisz-niem,163.00,,
-Wesoła,LO,CLXIII LO im. Cz. Niemena,"1As [O] ang-pol-wos (ang-hisz*,niem*,fra)",ang-pol-wos,ang-fra-hisz-niem,159.55,,
-Wesoła,LO,CLXIII LO im. Cz. Niemena,"1Cmbc [O] biol-chem-mat (ang-niem*,hisz*,fra)",biol-chem-mat,ang-fra-hisz-niem,165.70,,
-Wesoła,LO,CLXIII LO im. Cz. Niemena,"1Be [O] geogr-mat-wos (ang-hisz*,niem*,fra)",geogr-mat-wos,ang-fra-hisz-niem,157.00,,
-Wesoła,LO,CLXIII LO im. Cz. Niemena,"1Bsl [O] geogr-ang-wos (ang-niem*,hisz*,fra)",ang-geogr-wos,ang-fra-hisz-niem,156.70,,
-Wesoła,LO,CLXIII LO im. Cz. Niemena,"1Al [O] ang-hiszp-niem-pol (ang-hisz,niem)",ang-hiszp-niem-pol,ang-hisz-niem,140.50,,
-Wesoła,LO,CLXIII LO im. Cz. Niemena,"1Dmfi [O] fiz-inf-mat (ang-hisz*,niem*,fra)",fiz-inf-mat,ang-fra-hisz-niem,149.15,,
-Wesoła,LO,CLXIII LO im. Cz. Niemena,"1Dmfa [O] fiz-ang-mat (ang-hisz*,niem*,fra)",ang-fiz-mat,ang-fra-hisz-niem,155.00,,
-Wilanów,LO,XXXVIII LO im. S. K. Potockiego,1A1 [O] mat-wos (ang-hisz),mat-wos,ang-hisz,136.30,,
-Wilanów,LO,XXXVIII LO im. S. K. Potockiego,"1C2 [O] geogr-mat (ang-fra,wlo)",geogr-mat,ang-fra-wlo,113.15,,
-Wilanów,LO,XXXVIII LO im. S. K. Potockiego,"1B2 [O] biol-mat (ang-fra,wlo)",biol-mat,ang-fra-wlo,103.65,,
-Wilanów,LO,XXXVIII LO im. S. K. Potockiego,"1C1 [O] geogr-mat (ang-hisz,niem)",geogr-mat,ang-hisz-niem,145.55,,
-Wilanów,LO,XXXVIII LO im. S. K. Potockiego,1A2 [O] mat-wos (ang-niem),mat-wos,ang-niem,125.90,,
-Wilanów,LO,XXXVIII LO im. S. K. Potockiego,"1B1 [O] biol-mat (ang-hisz,niem)",biol-mat,ang-hisz-niem,142.85,,
-Włochy,LO,CLIX LO im. Króla J. III Sobieskiego,1DN [O] ang-pol-wos (ang-niem),ang-pol-wos,ang-niem,138.20,,
-Włochy,LO,CLIX LO im. Króla J. III Sobieskiego,1AN [O] fiz-inf-mat (ang-niem),fiz-inf-mat,ang-niem,160.30,,
-Włochy,LO,CLIX LO im. Króla J. III Sobieskiego,1BR [O] geogr-ang-mat (ang-ros),ang-geogr-mat,ang-ros,123.05,,
-Włochy,LO,CLIX LO im. Króla J. III Sobieskiego,1AH [O] fiz-inf-mat (ang-hisz),fiz-inf-mat,ang-hisz,162.80,,
-Włochy,LO,CLIX LO im. Króla J. III Sobieskiego,1CN [O] biol-chem-ang (ang-niem),ang-biol-chem,ang-niem,152.20,,
-Włochy,LO,CLIX LO im. Króla J. III Sobieskiego,1BH [O] geogr-ang-mat (ang-hisz),ang-geogr-mat,ang-hisz,160.50,,
-Włochy,LO,CLIX LO im. Króla J. III Sobieskiego,1EN [O] biz-geogr-ang (ang-niem),ang-biz-geogr,ang-niem,144.10,,
-Włochy,LO,CLIX LO im. Króla J. III Sobieskiego,1EH [O] biz-geogr-ang (ang-hisz),ang-biz-geogr,ang-hisz,150.65,,
-Włochy,LO,CLIX LO im. Króla J. III Sobieskiego,1DR [O] ang-pol-wos (ang-ros),ang-pol-wos,ang-ros,130.30,,
-Włochy,LO,CLIX LO im. Króla J. III Sobieskiego,1CH [O] biol-chem-ang (ang-hisz),ang-biol-chem,ang-hisz,155.60,,
+Wesoła,LO,CLXIII LO im. Cz. Niemena,"1Ble [O] geogr-hiszp-niem-mat (ang-niem,hisz)",geogr-hiszp-mat-niem,ang-hisz-niem,158.95,89,75.0
+Wesoła,LO,CLXIII LO im. Cz. Niemena,"1Cbc [O] biol-chem-ang (ang-niem*,hisz*,fra)",ang-biol-chem,ang-fra-hisz-niem,163.00,89,75.0
+Wesoła,LO,CLXIII LO im. Cz. Niemena,"1As [O] ang-pol-wos (ang-hisz*,niem*,fra)",ang-pol-wos,ang-fra-hisz-niem,159.55,89,75.0
+Wesoła,LO,CLXIII LO im. Cz. Niemena,"1Cmbc [O] biol-chem-mat (ang-niem*,hisz*,fra)",biol-chem-mat,ang-fra-hisz-niem,165.70,89,75.0
+Wesoła,LO,CLXIII LO im. Cz. Niemena,"1Be [O] geogr-mat-wos (ang-hisz*,niem*,fra)",geogr-mat-wos,ang-fra-hisz-niem,157.00,89,75.0
+Wesoła,LO,CLXIII LO im. Cz. Niemena,"1Bsl [O] geogr-ang-wos (ang-niem*,hisz*,fra)",ang-geogr-wos,ang-fra-hisz-niem,156.70,89,75.0
+Wesoła,LO,CLXIII LO im. Cz. Niemena,"1Al [O] ang-hiszp-niem-pol (ang-hisz,niem)",ang-hiszp-niem-pol,ang-hisz-niem,140.50,89,75.0
+Wesoła,LO,CLXIII LO im. Cz. Niemena,"1Dmfi [O] fiz-inf-mat (ang-hisz*,niem*,fra)",fiz-inf-mat,ang-fra-hisz-niem,149.15,89,75.0
+Wesoła,LO,CLXIII LO im. Cz. Niemena,"1Dmfa [O] fiz-ang-mat (ang-hisz*,niem*,fra)",ang-fiz-mat,ang-fra-hisz-niem,155.00,89,75.0
+Wilanów,LO,XXXVIII LO im. S. K. Potockiego,1A1 [O] mat-wos (ang-hisz),mat-wos,ang-hisz,136.30,75,72.33
+Wilanów,LO,XXXVIII LO im. S. K. Potockiego,"1C2 [O] geogr-mat (ang-fra,wlo)",geogr-mat,ang-fra-wlo,113.15,75,72.33
+Wilanów,LO,XXXVIII LO im. S. K. Potockiego,"1B2 [O] biol-mat (ang-fra,wlo)",biol-mat,ang-fra-wlo,103.65,75,72.33
+Wilanów,LO,XXXVIII LO im. S. K. Potockiego,"1C1 [O] geogr-mat (ang-hisz,niem)",geogr-mat,ang-hisz-niem,145.55,75,72.33
+Wilanów,LO,XXXVIII LO im. S. K. Potockiego,1A2 [O] mat-wos (ang-niem),mat-wos,ang-niem,125.90,75,72.33
+Wilanów,LO,XXXVIII LO im. S. K. Potockiego,"1B1 [O] biol-mat (ang-hisz,niem)",biol-mat,ang-hisz-niem,142.85,75,72.33
+Włochy,LO,CLIX LO im. Króla J. III Sobieskiego,1DN [O] ang-pol-wos (ang-niem),ang-pol-wos,ang-niem,138.20,65,65.0
+Włochy,LO,CLIX LO im. Króla J. III Sobieskiego,1AN [O] fiz-inf-mat (ang-niem),fiz-inf-mat,ang-niem,160.30,65,65.0
+Włochy,LO,CLIX LO im. Króla J. III Sobieskiego,1BR [O] geogr-ang-mat (ang-ros),ang-geogr-mat,ang-ros,123.05,65,65.0
+Włochy,LO,CLIX LO im. Króla J. III Sobieskiego,1AH [O] fiz-inf-mat (ang-hisz),fiz-inf-mat,ang-hisz,162.80,65,65.0
+Włochy,LO,CLIX LO im. Króla J. III Sobieskiego,1CN [O] biol-chem-ang (ang-niem),ang-biol-chem,ang-niem,152.20,65,65.0
+Włochy,LO,CLIX LO im. Króla J. III Sobieskiego,1BH [O] geogr-ang-mat (ang-hisz),ang-geogr-mat,ang-hisz,160.50,65,65.0
+Włochy,LO,CLIX LO im. Króla J. III Sobieskiego,1EN [O] biz-geogr-ang (ang-niem),ang-biz-geogr,ang-niem,144.10,65,65.0
+Włochy,LO,CLIX LO im. Króla J. III Sobieskiego,1EH [O] biz-geogr-ang (ang-hisz),ang-biz-geogr,ang-hisz,150.65,65,65.0
+Włochy,LO,CLIX LO im. Króla J. III Sobieskiego,1DR [O] ang-pol-wos (ang-ros),ang-pol-wos,ang-ros,130.30,65,65.0
+Włochy,LO,CLIX LO im. Króla J. III Sobieskiego,1CH [O] biol-chem-ang (ang-hisz),ang-biol-chem,ang-hisz,155.60,65,65.0
 Włochy,LO,LXXXIV LO im. Bohaterów Narwiku,1ah [O] geogr-ang-hiszp (ang-hisz),ang-geogr-hiszp,ang-hisz,148.40,,
 Włochy,LO,LXXXIV LO im. Bohaterów Narwiku,1an [O] geogr-ang-niem (ang-niem),ang-geogr-niem,ang-niem,127.25,,
 Włochy,T,Technikum nr 9 Lotnicze im. Bohaterów Narwiku,"1TC [O] Technik mechanik lotniczy (ang-niem,hisz)",Technik mechanik lotniczy,ang-hisz-niem,141.45,,
@@ -622,27 +622,27 @@ Wola,BS I st.,Branżowa Szkoła I stopnia nr 66,1mz [O] Monter zabudowy i robót
 Wola,BS I st.,Branżowa Szkoła I stopnia nr 66,1fz [O] Fryzjer (ang*),Fryzjer,ang,47.60,,
 Wola,BS I st.,Branżowa Szkoła Samochodowa I stopnia nr 1,1a [O] Mechanik pojazdów samochodowych (ang),Mechanik pojazdów samochodowych,ang,45.55,,
 Wola,BS I st.,Branżowa Szkoła Samochodowa I stopnia nr 1,1b [O] Mechanik pojazdów samochodowych (ang),Mechanik pojazdów samochodowych,ang,22.30,,
-Wola,LO,CLXI LO im. W. Bartoszewskiego,1BL_hiszp [O] biol-chem-ang (ang-hisz),ang-biol-chem,ang-hisz,134.40,,
-Wola,LO,CLXI LO im. W. Bartoszewskiego,1CL_niem [O] fiz-ang-mat (ang-niem),ang-fiz-mat,ang-niem,52.70,,
-Wola,LO,CLXI LO im. W. Bartoszewskiego,1AL_hiszp [O] geogr-ang-mat (ang-hisz),ang-geogr-mat,ang-hisz,137.75,,
-Wola,LO,CLXI LO im. W. Bartoszewskiego,1BL_niem [O] biol-chem-ang (ang-niem),ang-biol-chem,ang-niem,92.10,,
-Wola,LO,CLXI LO im. W. Bartoszewskiego,1CL_hiszp [O] fiz-ang-mat (ang-hisz),ang-fiz-mat,ang-hisz,109.95,,
-Wola,LO,CLXI LO im. W. Bartoszewskiego,1AL_niem [O] geogr-ang-mat (ang-niem),ang-geogr-mat,ang-niem,102.10,,
-Wola,LO,CXIX LO im. J. Kuronia,1AN [O] hist-ang-wos (ang-niem),ang-hist-wos,ang-niem,139.20,,
-Wola,LO,CXIX LO im. J. Kuronia,1AF [O] hist-ang-wos (ang-fra),ang-hist-wos,ang-fra,143.90,,
-Wola,LO,CXIX LO im. J. Kuronia,1BN [O] biol-chem (ang-niem),biol-chem,ang-niem,140.65,,
-Wola,LO,CXIX LO im. J. Kuronia,1BF [O] biol-chem (ang-fra),biol-chem,ang-fra,140.70,,
-Wola,LO,CXIX LO im. J. Kuronia,1CF [O] geogr-ang-mat (ang-fra),ang-geogr-mat,ang-fra,140.20,,
-Wola,LO,CXIX LO im. J. Kuronia,1CN [O] geogr-ang-mat (ang-niem),ang-geogr-mat,ang-niem,144.50,,
+Wola,LO,CLXI LO im. W. Bartoszewskiego,1BL_hiszp [O] biol-chem-ang (ang-hisz),ang-biol-chem,ang-hisz,134.40,80,89.0
+Wola,LO,CLXI LO im. W. Bartoszewskiego,1CL_niem [O] fiz-ang-mat (ang-niem),ang-fiz-mat,ang-niem,52.70,80,89.0
+Wola,LO,CLXI LO im. W. Bartoszewskiego,1AL_hiszp [O] geogr-ang-mat (ang-hisz),ang-geogr-mat,ang-hisz,137.75,80,89.0
+Wola,LO,CLXI LO im. W. Bartoszewskiego,1BL_niem [O] biol-chem-ang (ang-niem),ang-biol-chem,ang-niem,92.10,80,89.0
+Wola,LO,CLXI LO im. W. Bartoszewskiego,1CL_hiszp [O] fiz-ang-mat (ang-hisz),ang-fiz-mat,ang-hisz,109.95,80,89.0
+Wola,LO,CLXI LO im. W. Bartoszewskiego,1AL_niem [O] geogr-ang-mat (ang-niem),ang-geogr-mat,ang-niem,102.10,80,89.0
+Wola,LO,CXIX LO im. J. Kuronia,1AN [O] hist-ang-wos (ang-niem),ang-hist-wos,ang-niem,139.20,83,88.0
+Wola,LO,CXIX LO im. J. Kuronia,1AF [O] hist-ang-wos (ang-fra),ang-hist-wos,ang-fra,143.90,83,88.0
+Wola,LO,CXIX LO im. J. Kuronia,1BN [O] biol-chem (ang-niem),biol-chem,ang-niem,140.65,83,88.0
+Wola,LO,CXIX LO im. J. Kuronia,1BF [O] biol-chem (ang-fra),biol-chem,ang-fra,140.70,83,88.0
+Wola,LO,CXIX LO im. J. Kuronia,1CF [O] geogr-ang-mat (ang-fra),ang-geogr-mat,ang-fra,140.20,83,88.0
+Wola,LO,CXIX LO im. J. Kuronia,1CN [O] geogr-ang-mat (ang-niem),ang-geogr-mat,ang-niem,144.50,83,88.0
 Wola,LO,CXXV LO im. W. Milewicza,1La [O] geogr-ang-hiszp (ang-hisz),ang-geogr-hiszp,ang-hisz,103.05,,
 Wola,LO,CXXV LO im. W. Milewicza,"1Lb [O] ang-pol-wos (ang-hisz,niem,ros)",ang-pol-wos,ang-hisz-niem-ros,103.05,,
 Wola,LO,CXXV LO im. W. Milewicza,"1Lc [O] biol-ang (ang-hisz,niem,ros)",ang-biol,ang-hisz-niem-ros,89.15,,
 Wola,LO,CXXV LO im. W. Milewicza,"1Ld [PW] hist-ang (ang-hisz,niem,ros)",ang-hist,ang-hisz-niem-ros,75.00,,
-Wola,LO,III LO im. gen. J. Sowińskiego,1A [O] hist-hiszp-pol (hisz*-ang),hist-hiszp-pol,ang-hisz,141.85,,
-Wola,LO,III LO im. gen. J. Sowińskiego,1D [O] biol-chem-ang (ang-niem*),ang-biol-chem,ang-niem,156.40,,
-Wola,LO,III LO im. gen. J. Sowińskiego,1E [O] fiz-inf-mat (ang-fra*),fiz-inf-mat,ang-fra,148.70,,
-Wola,LO,III LO im. gen. J. Sowińskiego,1C [O] inf-ang-mat (ang-ros*),ang-inf-mat,ang-ros,147.70,,
-Wola,LO,III LO im. gen. J. Sowińskiego,1B [O] geogr-ang-mat (ang-hisz*),ang-geogr-mat,ang-hisz,162.00,,
+Wola,LO,III LO im. gen. J. Sowińskiego,1A [O] hist-hiszp-pol (hisz*-ang),hist-hiszp-pol,ang-hisz,141.85,78,65.33
+Wola,LO,III LO im. gen. J. Sowińskiego,1D [O] biol-chem-ang (ang-niem*),ang-biol-chem,ang-niem,156.40,78,65.33
+Wola,LO,III LO im. gen. J. Sowińskiego,1E [O] fiz-inf-mat (ang-fra*),fiz-inf-mat,ang-fra,148.70,78,65.33
+Wola,LO,III LO im. gen. J. Sowińskiego,1C [O] inf-ang-mat (ang-ros*),ang-inf-mat,ang-ros,147.70,78,65.33
+Wola,LO,III LO im. gen. J. Sowińskiego,1B [O] geogr-ang-mat (ang-hisz*),ang-geogr-mat,ang-hisz,162.00,78,65.33
 Wola,LO,"LXXXVI LO im. Batalionu ""Zośka""","1a [O] hist-ang-pol (ang-fra,hisz)",ang-hist-pol,ang-fra-hisz,121.95,,
 Wola,LO,"LXXXVI LO im. Batalionu ""Zośka""",1b [O] fiz-ang-mat (ang-hisz*),ang-fiz-mat,ang-hisz,89.90,,
 Wola,LO,"LXXXVI LO im. Batalionu ""Zośka""","1c [O] biol-geogr-ang (ang-hisz,niem)",ang-biol-geogr,ang-hisz-niem,127.30,,
@@ -675,38 +675,38 @@ Wola,T,Technikum Samochodowe nr 2 im. Cz. Orłowskiego,1BY [O] Technik pojazdów
 Wola,LO,XCII LO z Oddziałami Integracyjnymi,"1Ai [I-o] biol (ang-niem,hisz)",biol,ang-hisz-niem,88.50,,
 Wola,LO,XCII LO z Oddziałami Integracyjnymi,1Bi [I-o] geogr-wos (ang-niem),geogr-wos,ang-niem,83.20,,
 Wola,LO,XCII LO z Oddziałami Integracyjnymi,1Ci [I-o] geogr-wos (ang-hisz),geogr-wos,ang-hisz,94.50,,
-Wola,LO,XII LO im. Henryka Sienkiewicza,"1C [O] biol-chem (ang-fra,hisz)",biol-chem,ang-fra-hisz,158.85,,
-Wola,LO,XII LO im. Henryka Sienkiewicza,"1D [O] hist-pol-wos (ang-ros,wlo)",hist-pol-wos,ang-ros-wlo,144.45,,
-Wola,LO,XII LO im. Henryka Sienkiewicza,"1B [O] geogr-ang-mat (ang-hisz,niem)",ang-geogr-mat,ang-hisz-niem,159.80,,
-Wola,LO,XII LO im. Henryka Sienkiewicza,"1A [O] fiz-inf-mat (ang-fra,niem)",fiz-inf-mat,ang-fra-niem,159.50,,
-Wola,LO,XL LO z Oddziałami Dwujęzycznymi im. S. Żeromskiego,"1B [O] biol-chem (ang-hisz,niem)",biol-chem,ang-hisz-niem,170.05,,
-Wola,LO,XL LO z Oddziałami Dwujęzycznymi im. S. Żeromskiego,"1C [O] biol-chem-mat (ang-hisz,niem)",biol-chem-mat,ang-hisz-niem,174.20,,
-Wola,LO,XL LO z Oddziałami Dwujęzycznymi im. S. Żeromskiego,"1A [O] fiz-mat (ang-hisz,niem)",fiz-mat,ang-hisz-niem,170.30,,
-Wola,LO,XL LO z Oddziałami Dwujęzycznymi im. S. Żeromskiego,"1E [D] hist-pol-wos (ang-hisz,niem)",hist-pol-wos,ang-hisz-niem,164.09,,
-Wola,LO,XL LO z Oddziałami Dwujęzycznymi im. S. Żeromskiego,"1F [O] geogr-ang-mat (ang-hisz,niem)",ang-geogr-mat,ang-hisz-niem,172.15,,
+Wola,LO,XII LO im. Henryka Sienkiewicza,"1C [O] biol-chem (ang-fra,hisz)",biol-chem,ang-fra-hisz,158.85,50,48.0
+Wola,LO,XII LO im. Henryka Sienkiewicza,"1D [O] hist-pol-wos (ang-ros,wlo)",hist-pol-wos,ang-ros-wlo,144.45,50,48.0
+Wola,LO,XII LO im. Henryka Sienkiewicza,"1B [O] geogr-ang-mat (ang-hisz,niem)",ang-geogr-mat,ang-hisz-niem,159.80,50,48.0
+Wola,LO,XII LO im. Henryka Sienkiewicza,"1A [O] fiz-inf-mat (ang-fra,niem)",fiz-inf-mat,ang-fra-niem,159.50,50,48.0
+Wola,LO,XL LO z Oddziałami Dwujęzycznymi im. S. Żeromskiego,"1B [O] biol-chem (ang-hisz,niem)",biol-chem,ang-hisz-niem,170.05,15,13.67
+Wola,LO,XL LO z Oddziałami Dwujęzycznymi im. S. Żeromskiego,"1C [O] biol-chem-mat (ang-hisz,niem)",biol-chem-mat,ang-hisz-niem,174.20,15,13.67
+Wola,LO,XL LO z Oddziałami Dwujęzycznymi im. S. Żeromskiego,"1A [O] fiz-mat (ang-hisz,niem)",fiz-mat,ang-hisz-niem,170.30,15,13.67
+Wola,LO,XL LO z Oddziałami Dwujęzycznymi im. S. Żeromskiego,"1E [D] hist-pol-wos (ang-hisz,niem)",hist-pol-wos,ang-hisz-niem,164.09,15,13.67
+Wola,LO,XL LO z Oddziałami Dwujęzycznymi im. S. Żeromskiego,"1F [O] geogr-ang-mat (ang-hisz,niem)",ang-geogr-mat,ang-hisz-niem,172.15,15,13.67
 Wola,LO,XLV LO im. R. Traugutta,1A [O] biol-chem-ang (ang-niem),ang-biol-chem,ang-niem,86.40,,
 Wola,LO,XLV LO im. R. Traugutta,1D [O] inf-ang-mat (ang-niem),ang-inf-mat,ang-niem,130.45,,
 Wola,LO,XLV LO im. R. Traugutta,1E [O] geogr-hist-ang (ang-hisz),ang-geogr-hist,ang-hisz,123.05,,
-Wola,LO,XXIV LO im. C. K. Norwida,1Cn [O] geogr-ang-mat (ang-niem),ang-geogr-mat,ang-niem,159.40,,
-Wola,LO,XXIV LO im. C. K. Norwida,1An [O] biol-chem-ang (ang-niem),ang-biol-chem,ang-niem,150.80,,
-Wola,LO,XXIV LO im. C. K. Norwida,1Cf [O] geogr-ang-mat (ang-fra),ang-geogr-mat,ang-fra,150.65,,
-Wola,LO,XXIV LO im. C. K. Norwida,1Af [O] biol-chem-ang (ang-fra),ang-biol-chem,ang-fra,150.35,,
-Wola,LO,XXIV LO im. C. K. Norwida,1Bf [O] hist-pol-wos (ang-fra),hist-pol-wos,ang-fra,130.65,,
-Wola,LO,XXIV LO im. C. K. Norwida,1Df [O] fiz-ang-mat (ang-fra),ang-fiz-mat,ang-fra,146.85,,
-Wola,LO,XXIV LO im. C. K. Norwida,1Bn [O] hist-pol-wos (ang-niem),hist-pol-wos,ang-niem,144.20,,
-Wola,LO,XXIV LO im. C. K. Norwida,1Dn [O] fiz-ang-mat (ang-niem),ang-fiz-mat,ang-niem,159.10,,
-Wola,LO,XXX LO im. J. Śniadeckiego,"1B [O] geogr-ang-mat (ang-fra,hisz*,niem,ros,wlo)",ang-geogr-mat,ang-fra-hisz-niem-ros-wlo,153.55,,
-Wola,LO,XXX LO im. J. Śniadeckiego,"1C [O] biol-chem-ang (ang-fra,hisz*,niem,ros,wlo)",ang-biol-chem,ang-fra-hisz-niem-ros-wlo,151.50,,
-Wola,LO,XXX LO im. J. Śniadeckiego,"1E [D] geogr-wos (ang-fra,hisz*,niem,ros,wlo)",geogr-wos,ang-fra-hisz-niem-ros-wlo,163.14,,
-Wola,LO,XXX LO im. J. Śniadeckiego,1D2 [O] ang-niem-wos (ang-niem),ang-niem-wos,ang-niem,127.85,,
-Wola,LO,XXX LO im. J. Śniadeckiego,1D1 [O] ang-hiszp-wos (ang-hisz),ang-hiszp-wos,ang-hisz,145.20,,
-Wola,LO,XXXIII LO Dwujęzyczne im. M. Kopernika,"1MA_O [D] fiz-mat (ang-hisz*,niem*)",fiz-mat,ang-hisz-niem,193.32,,
-Wola,LO,XXXIII LO Dwujęzyczne im. M. Kopernika,"1MA_A [D] fiz-mat (ang-hisz*,niem*)",fiz-mat,ang-hisz-niem,192.39,,
-Wola,LO,XXXIII LO Dwujęzyczne im. M. Kopernika,1LH [D] geogr-hiszp-pol (ang-hisz),geogr-hiszp-pol,ang-hisz,179.57,,
-Wola,LO,XXXIII LO Dwujęzyczne im. M. Kopernika,1LN [D] geogr-niem-pol (ang-niem),geogr-niem-pol,ang-niem,174.99,,
-Wola,LO,XXXIII LO Dwujęzyczne im. M. Kopernika,"1P [D] biol-chem-mat (ang-hisz*,niem*)",biol-chem-mat,ang-hisz-niem,192.29,,
-Wola,LO,XXXIII LO Dwujęzyczne im. M. Kopernika,"1G [D] geogr-mat (ang-hisz*,niem*)",geogr-mat,ang-hisz-niem,187.87,,
-Wola,LO,XXXIII LO Dwujęzyczne im. M. Kopernika,"1MYP [M] (ang-fra*,hisz*,niem*)",brak rozszerzeń,ang-fra-hisz-niem,201.07,,
+Wola,LO,XXIV LO im. C. K. Norwida,1Cn [O] geogr-ang-mat (ang-niem),ang-geogr-mat,ang-niem,159.40,44,37.33
+Wola,LO,XXIV LO im. C. K. Norwida,1An [O] biol-chem-ang (ang-niem),ang-biol-chem,ang-niem,150.80,44,37.33
+Wola,LO,XXIV LO im. C. K. Norwida,1Cf [O] geogr-ang-mat (ang-fra),ang-geogr-mat,ang-fra,150.65,44,37.33
+Wola,LO,XXIV LO im. C. K. Norwida,1Af [O] biol-chem-ang (ang-fra),ang-biol-chem,ang-fra,150.35,44,37.33
+Wola,LO,XXIV LO im. C. K. Norwida,1Bf [O] hist-pol-wos (ang-fra),hist-pol-wos,ang-fra,130.65,44,37.33
+Wola,LO,XXIV LO im. C. K. Norwida,1Df [O] fiz-ang-mat (ang-fra),ang-fiz-mat,ang-fra,146.85,44,37.33
+Wola,LO,XXIV LO im. C. K. Norwida,1Bn [O] hist-pol-wos (ang-niem),hist-pol-wos,ang-niem,144.20,44,37.33
+Wola,LO,XXIV LO im. C. K. Norwida,1Dn [O] fiz-ang-mat (ang-niem),ang-fiz-mat,ang-niem,159.10,44,37.33
+Wola,LO,XXX LO im. J. Śniadeckiego,"1B [O] geogr-ang-mat (ang-fra,hisz*,niem,ros,wlo)",ang-geogr-mat,ang-fra-hisz-niem-ros-wlo,153.55,57,74.33
+Wola,LO,XXX LO im. J. Śniadeckiego,"1C [O] biol-chem-ang (ang-fra,hisz*,niem,ros,wlo)",ang-biol-chem,ang-fra-hisz-niem-ros-wlo,151.50,57,74.33
+Wola,LO,XXX LO im. J. Śniadeckiego,"1E [D] geogr-wos (ang-fra,hisz*,niem,ros,wlo)",geogr-wos,ang-fra-hisz-niem-ros-wlo,163.14,57,74.33
+Wola,LO,XXX LO im. J. Śniadeckiego,1D2 [O] ang-niem-wos (ang-niem),ang-niem-wos,ang-niem,127.85,57,74.33
+Wola,LO,XXX LO im. J. Śniadeckiego,1D1 [O] ang-hiszp-wos (ang-hisz),ang-hiszp-wos,ang-hisz,145.20,57,74.33
+Wola,LO,XXXIII LO Dwujęzyczne im. M. Kopernika,"1MA_O [D] fiz-mat (ang-hisz*,niem*)",fiz-mat,ang-hisz-niem,193.32,11,12.33
+Wola,LO,XXXIII LO Dwujęzyczne im. M. Kopernika,"1MA_A [D] fiz-mat (ang-hisz*,niem*)",fiz-mat,ang-hisz-niem,192.39,11,12.33
+Wola,LO,XXXIII LO Dwujęzyczne im. M. Kopernika,1LH [D] geogr-hiszp-pol (ang-hisz),geogr-hiszp-pol,ang-hisz,179.57,11,12.33
+Wola,LO,XXXIII LO Dwujęzyczne im. M. Kopernika,1LN [D] geogr-niem-pol (ang-niem),geogr-niem-pol,ang-niem,174.99,11,12.33
+Wola,LO,XXXIII LO Dwujęzyczne im. M. Kopernika,"1P [D] biol-chem-mat (ang-hisz*,niem*)",biol-chem-mat,ang-hisz-niem,192.29,11,12.33
+Wola,LO,XXXIII LO Dwujęzyczne im. M. Kopernika,"1G [D] geogr-mat (ang-hisz*,niem*)",geogr-mat,ang-hisz-niem,187.87,11,12.33
+Wola,LO,XXXIII LO Dwujęzyczne im. M. Kopernika,"1MYP [M] (ang-fra*,hisz*,niem*)",brak rozszerzeń,ang-fra-hisz-niem,201.07,11,12.33
 Żoliborz,BS I st.,Branżowa Szkoła I stopnia nr 11,1EM [O] Elektromechanik pojazdów samochodowych (ang),Elektromechanik pojazdów samochodowych,ang,40.85,,
 Żoliborz,BS I st.,Branżowa Szkoła I stopnia nr 11,1MPS [O] Mechanik pojazdów samochodowych (ang),Mechanik pojazdów samochodowych,ang,52.35,,
 Żoliborz,BS I st.,Branżowa Szkoła I stopnia nr 11,1KM [O] Kierowca mechanik (ang),Kierowca mechanik,ang,34.20,,
@@ -718,14 +718,14 @@ Wola,LO,XXXIII LO Dwujęzyczne im. M. Kopernika,"1MYP [M] (ang-fra*,hisz*,niem*)
 Żoliborz,LO,CXIV LO im. J. Kilińskiego,1A-niem [O] hist-h.szt.-pol (ang-niem),h.szt.-hist-pol,ang-niem,77.55,,
 Żoliborz,LO,CXIV LO im. J. Kilińskiego,1Ai [I-o] hist-h.szt.-pol (ang-hisz),h.szt.-hist-pol,ang-hisz,86.30,,
 Żoliborz,LO,CXIV LO im. J. Kilińskiego,1D-hiszp [O] h.szt.-ang-pol (ang-hisz),ang-h.szt.-pol,ang-hisz,127.40,,
-Żoliborz,LO,I LO z Oddziałami Integracyjnymi im. B. Limanowskiego,1D [I-o] hist-h.szt.-pol (ang-hisz*),h.szt.-hist-pol,ang-hisz,141.65,,
-Żoliborz,LO,I LO z Oddziałami Integracyjnymi im. B. Limanowskiego,"1F [O] biol-chem-ang (ang-hisz*,niem*)",ang-biol-chem,ang-hisz-niem,147.90,,
-Żoliborz,LO,I LO z Oddziałami Integracyjnymi im. B. Limanowskiego,"1E [O] geogr-ang-mat (ang-hisz*,niem*)",ang-geogr-mat,ang-hisz-niem,154.30,,
-Żoliborz,LO,I LO z Oddziałami Integracyjnymi im. B. Limanowskiego,"1G [O] geogr-ang-wos (ang*-hisz*,niem*)",ang-geogr-wos,ang-hisz-niem,146.90,,
-Żoliborz,LO,"LXIV LO im. S. I. Witkiewicza ""Witkacego""",1A [O] ang (ang-ros*),ang,ang-ros,174.40,,
-Żoliborz,LO,"LXIV LO im. S. I. Witkiewicza ""Witkacego""",1B [O] niem (niem*-ang),niem,ang-niem,174.90,,
-Żoliborz,LO,"LXIV LO im. S. I. Witkiewicza ""Witkacego""",1D [O] hiszp (hisz*-ang),hiszp,ang-hisz,178.75,,
-Żoliborz,LO,"LXIV LO im. S. I. Witkiewicza ""Witkacego""",1C [O] franc (fra*-ang),franc,ang-fra,173.45,,
+Żoliborz,LO,I LO z Oddziałami Integracyjnymi im. B. Limanowskiego,1D [I-o] hist-h.szt.-pol (ang-hisz*),h.szt.-hist-pol,ang-hisz,141.65,64,71.0
+Żoliborz,LO,I LO z Oddziałami Integracyjnymi im. B. Limanowskiego,"1F [O] biol-chem-ang (ang-hisz*,niem*)",ang-biol-chem,ang-hisz-niem,147.90,64,71.0
+Żoliborz,LO,I LO z Oddziałami Integracyjnymi im. B. Limanowskiego,"1E [O] geogr-ang-mat (ang-hisz*,niem*)",ang-geogr-mat,ang-hisz-niem,154.30,64,71.0
+Żoliborz,LO,I LO z Oddziałami Integracyjnymi im. B. Limanowskiego,"1G [O] geogr-ang-wos (ang*-hisz*,niem*)",ang-geogr-wos,ang-hisz-niem,146.90,64,71.0
+Żoliborz,LO,"LXIV LO im. S. I. Witkiewicza ""Witkacego""",1A [O] ang (ang-ros*),ang,ang-ros,174.40,6,13.0
+Żoliborz,LO,"LXIV LO im. S. I. Witkiewicza ""Witkacego""",1B [O] niem (niem*-ang),niem,ang-niem,174.90,6,13.0
+Żoliborz,LO,"LXIV LO im. S. I. Witkiewicza ""Witkacego""",1D [O] hiszp (hisz*-ang),hiszp,ang-hisz,178.75,6,13.0
+Żoliborz,LO,"LXIV LO im. S. I. Witkiewicza ""Witkacego""",1C [O] franc (fra*-ang),franc,ang-fra,173.45,6,13.0
 Żoliborz,T,"Technikum Elektroniczne nr 3 im. Żołnierzy AK ""Żywiciel""","1A [O] Technik elektronik (ang-niem*,hisz*)",Technik elektronik,ang-hisz-niem,81.60,,
 Żoliborz,T,"Technikum Elektroniczne nr 3 im. Żołnierzy AK ""Żywiciel""",1D [O] Technik informatyk (ang-hisz*),Technik informatyk,ang-hisz,113.50,,
 Żoliborz,T,"Technikum Elektroniczne nr 3 im. Żołnierzy AK ""Żywiciel""","1IJ/urz.dźwig. [O] Technik urządzeń dźwigowych (ang-niem*,ros*)",Technik urządzeń dźwigowych,ang-niem-ros,68.80,,
@@ -739,7 +739,7 @@ Wola,LO,XXXIII LO Dwujęzyczne im. M. Kopernika,"1MYP [M] (ang-fra*,hisz*,niem*)
 Żoliborz,T,Technikum Samochodowe nr 3,1a [O] Technik pojazdów samochodowych (ang-niem),Technik pojazdów samochodowych,ang-niem,69.80,,
 Żoliborz,T,Technikum Samochodowe nr 3,1d [O] Technik logistyk (ang-niem),Technik logistyk,ang-niem,54.85,,
 Żoliborz,T,Technikum Samochodowe nr 3,1c [O] Technik mechatronik (ang-niem),Technik mechatronik,ang-niem,24.25,,
-Żoliborz,LO,XVI LO z Oddziałami Dwujęzycznymi im. S. Sempołowskiej,1E [O] biol-chem-mat (ang-fra),biol-chem-mat,ang-fra,154.85,,
-Żoliborz,LO,XVI LO z Oddziałami Dwujęzycznymi im. S. Sempołowskiej,1C [O] geogr-hist-wos (ang-fra),geogr-hist-wos,ang-fra,149.70,,
-Żoliborz,LO,XVI LO z Oddziałami Dwujęzycznymi im. S. Sempołowskiej,"1B [O] geogr-ang-mat (ang-hisz,fra)",ang-geogr-mat,ang-fra-hisz,164.80,,
-Żoliborz,LO,XVI LO z Oddziałami Dwujęzycznymi im. S. Sempołowskiej,0A [DW] (fra-ang),brak rozszerzeń,ang-fra,163.50,,
+Żoliborz,LO,XVI LO z Oddziałami Dwujęzycznymi im. S. Sempołowskiej,1E [O] biol-chem-mat (ang-fra),biol-chem-mat,ang-fra,154.85,40,33.67
+Żoliborz,LO,XVI LO z Oddziałami Dwujęzycznymi im. S. Sempołowskiej,1C [O] geogr-hist-wos (ang-fra),geogr-hist-wos,ang-fra,149.70,40,33.67
+Żoliborz,LO,XVI LO z Oddziałami Dwujęzycznymi im. S. Sempołowskiej,"1B [O] geogr-ang-mat (ang-hisz,fra)",ang-geogr-mat,ang-fra-hisz,164.80,40,33.67
+Żoliborz,LO,XVI LO z Oddziałami Dwujęzycznymi im. S. Sempołowskiej,0A [DW] (fra-ang),brak rozszerzeń,ang-fra,163.50,40,33.67
